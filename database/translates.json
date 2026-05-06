@@ -2522,7 +2522,7 @@
             "WebUtils": null
         },
         "descriptions": {
-            "library to provide easier ways of downloading things from the web": null
+            "library to provide easier ways of downloading things from the web": "一个库，用于从网络上轻松下载数据"
         }
     },
     "airbuds-search": {
@@ -2555,19 +2555,19 @@
     "CongXinJian": {
         "id": "CongXinJian",
         "names": {
-            "CongXinJian": null
+            "CongXinJian": "从心剑"
         },
         "descriptions": {
-            "help you to tweaking saber offset easier inside quest": null
+            "help you to tweaking saber offset easier inside quest": "用来快捷地在选歌界面来调整光剑的偏移"
         }
     },
     "discordrichpresence": {
         "id": "discordrichpresence",
         "names": {
-            "Discord Rich Presence": null
+            "Discord Rich Presence": "Discord富状态"
         },
         "descriptions": {
-            "A Beat Saber Quest mod for displaying stats on Discord": null
+            "A Beat Saber Quest mod for displaying stats on Discord": "一个用于在 Discord 上显示状态的模组"
         }
     }
 }
