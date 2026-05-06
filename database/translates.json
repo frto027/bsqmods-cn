@@ -53,7 +53,7 @@
     "QuestSounds": {
         "id": "QuestSounds",
         "names": {
-            "QuestSounds": "音效",
+            "QuestSounds": "Quest音效",
             "Quest Sounds": null
         },
         "descriptions": {
@@ -65,7 +65,7 @@
     "rumblerumblequest": {
         "id": "rumblerumblequest",
         "names": {
-            "RumbleRumbleQuest": "震动调节"
+            "RumbleRumbleQuest": "震动调节(Quest)"
         },
         "descriptions": {
             "RumbleRumbleQuest allows you to adjust controller haptics \"rumbles\" in-game. RumbleRumbleQuest is a Quest port of the popular RumbleMod.": "在游戏中调节控制器震动强度。流行PC模组的移植版。"
@@ -327,7 +327,7 @@
     "QuestHitscoreVisualizer": {
         "id": "QuestHitscoreVisualizer",
         "names": {
-            "Hitscore Visualizer": "打击分数可视化"
+            "Hitscore Visualizer": "Quest打击分数可视化"
         },
         "descriptions": {
             "Displays your scores for each note with customizable colors, text, images, and even sound!": "自定义每个音符的分数显示，支持颜色、文字、图片甚至音效！"
@@ -409,7 +409,7 @@
     "CustomPillowsQuest": {
         "id": "CustomPillowsQuest",
         "names": {
-            "Custom Pillows Quest": "自定义枕头"
+            "Custom Pillows Quest": "自定义枕头(Quest)"
         },
         "descriptions": {
             "This mod is a spiritual port of the mod for PC of the same name by Toni Macaroni!\r\nThese pillows can be anything you want them to be, as long as you can put it on a flat texture. This mod was Commissioned by @TKC \r\n\r\n - Pillows Take their texture from a pool of active textures, enabled in the mod settings and listed from sdcard/ModData/com.beatgames.beatsaber/Mods/CustomPillowsQuest/images\r\n - Pillows spawn using a constellation, configured in the mod settings and located at sdcard/ModData/com.beatgames.beatsaber/Mods/CustomPillowsQuest/constellations\r\n - The mod can be disabled in the menu\r\n - Features a shuffle button in the menu for shuffling the current iteration of textures\r\n\r\nExtra Pillow Textures:\r\nhttps://github.com/RedBrumbler/CustomPillowsQuest/releases/download/1.0.0/ExtraPillows.zip": "这个模组是PC同名模组的移植版！这些枕头可以是任何你想要的东西。"
@@ -465,7 +465,7 @@
     "questui": {
         "id": "questui",
         "names": {
-            "QuestUI": "UI库"
+            "QuestUI": "QuestUI库"
         },
         "descriptions": {
             "A library used to add Mod Settings and other UI.": "用于添加模组设置和其他UI的库。",
@@ -637,10 +637,10 @@
     "FNF-SoundPack": {
         "id": "FNF-SoundPack",
         "names": {
-            "Friday Night Funkin SoundPack": "FNF音效包"
+            "Friday Night Funkin SoundPack": "Friday Night Funkin'音效包"
         },
         "descriptions": {
-            "The Friday Night Funkin Sound Pack contains Sounds from the Game Friday Night Funkint to funk along to in Beat Saber.": "包含Friday Night Funkin游戏中的音效，让你在打谱时也能蹦迪。"
+            "The Friday Night Funkin Sound Pack contains Sounds from the Game Friday Night Funkint to funk along to in Beat Saber.": "包含Friday Night Funkin'游戏中的音效，让你在打谱时也能蹦迪。"
         }
     },
     "hitscore": {
@@ -957,7 +957,7 @@
     "multiquestensions": {
         "id": "multiquestensions",
         "names": {
-            "MultiQuestensions": "多人扩展"
+            "MultiQuestensions": "多人扩展(Quest)"
         },
         "descriptions": {
             "Lightweight port of MultiplayerExtensions, the PC mod that adds features to Multiplayer.": "移植自PC模组MultiplayerExtensions，为多人游戏增加更多特性的精简版。",
@@ -1095,7 +1095,7 @@
     "ServerBrowserQuest": {
         "id": "ServerBrowserQuest",
         "names": {
-            "Server Browser": "服务器浏览器"
+            "Server Browser": "Quest服务器浏览器"
         },
         "descriptions": {
             "Lets you browse and join Multiplayer Servers right from within the headset": "在头显中直接浏览和加入多人游戏服务器。"
@@ -1604,7 +1604,7 @@
     "RainbowQuest": {
         "id": "RainbowQuest",
         "names": {
-            "Rainbow Quest": "彩虹方块"
+            "Rainbow Quest": "彩虹Quest"
         },
         "descriptions": {
             "Makes blocks and obstacles rainbow :D. By: Unifox": "让方块和障碍物变成彩虹色 :D 作者：Unifox。"
@@ -1670,7 +1670,7 @@
     "BSNightcoreQuest": {
         "id": "BSNightcoreQuest",
         "names": {
-            "BSNightcoreQuest": "夜核变速"
+            "BSNightcoreQuest": "夜核变速(Quest)"
         },
         "descriptions": {
             "Removes pitch compensation to make songs go nightcore on different speed": "移除音高校正，让歌曲在不同速度下变成夜核风格。"
@@ -1775,7 +1775,7 @@
     "questrpc": {
         "id": "questrpc",
         "names": {
-            "QuestDiscordRPC": "Discord状态"
+            "QuestDiscordRPC": "Quest Discord状态"
         },
         "descriptions": {
             "Quest Discord RPC to show that your playing discord.": "在Discord上显示你的节奏光剑游戏状态。"
@@ -2062,7 +2062,7 @@
     "TwitchSongReQuest": {
         "id": "TwitchSongReQuest",
         "names": {
-            "TwitchSongReQuest": "Twitch点歌"
+            "TwitchSongReQuest": "Twitch点歌(Quest)"
         },
         "descriptions": {
             "Let your Twitch viewers suggest maps": null,
