@@ -2127,10 +2127,10 @@
     "haptic-revert": {
         "id": "haptic-revert",
         "names": {
-            "Haptic Revert": "触感还原"
+            "Haptic Revert": "震动还原"
         },
         "descriptions": {
-            "Reverts haptics to pre-1.35 behavior": "将触觉反馈恢复到1.35版本之前的行为。"
+            "Reverts haptics to pre-1.35 behavior": "将震动反馈恢复到1.35版本之前的行为。"
         }
     },
     "HeartBeatLanReceiver": {
@@ -2206,10 +2206,10 @@
     "BetterHaptics": {
         "id": "BetterHaptics",
         "names": {
-            "BetterHaptics": "更好的触感"
+            "BetterHaptics": "更好的震动"
         },
         "descriptions": {
-            "Reverts haptic feedback changes without breaking arc and chain notes.": "恢复触觉反馈到旧版效果，同时不影响弧线和滑条音符。"
+            "Reverts haptic feedback changes without breaking arc and chain notes.": "恢复震动反馈到旧版效果，同时不影响弧线和滑条音符。"
         }
     },
     "bsdc": {
