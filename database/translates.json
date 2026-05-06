@@ -2,30 +2,30 @@
     "BetterMenu": {
         "id": "BetterMenu",
         "names": {
-            "Better Menu": null
+            "Better Menu": "更好的菜单"
         },
         "descriptions": {
-            "A modod that rearranges the main menu into a more organized grid layout.\\r\\nThis is a port of the original mod created by AceofShovels\r\n\r\nRemoved BTS advertisement from the main menu. (Implemented by Laurie)": null
+            "A modod that rearranges the main menu into a more organized grid layout.\\r\\nThis is a port of the original mod created by AceofShovels\r\n\r\nRemoved BTS advertisement from the main menu. (Implemented by Laurie)": "让主菜单重新排列成更整齐的网格布局。由AceofShovels的原作移植而来。"
         }
     },
     "goodbyebug": {
         "id": "goodbyebug",
         "names": {
-            "Goodbye Bug": null,
-            "GoodbyeBug": null
+            "Goodbye Bug": "再见Bug",
+            "GoodbyeBug": "再见Bug"
         },
         "descriptions": {
-            "Fixed bug:\r\n    - Fixes playlist scrolling in the wrong direction when you got more than 8 playlists.": null,
-            "Fixes playlist scrolling in the wrong direction when you got more than 8 playlists": null
+            "Fixed bug:\r\n    - Fixes playlist scrolling in the wrong direction when you got more than 8 playlists.": "修复Bug：修复了播放列表超过8个时滚动方向错误的问题。",
+            "Fixes playlist scrolling in the wrong direction when you got more than 8 playlists": "修复Bug：修复了播放列表超过8个时滚动方向错误的问题。"
         }
     },
     "MotionBlurDisabler": {
         "id": "MotionBlurDisabler",
         "names": {
-            "Motion Blur Disabler": null
+            "Motion Blur Disabler": "动态模糊禁用"
         },
         "descriptions": {
-            "It disables the white area on the trail.": null
+            "It disables the white area on the trail.": "禁用光剑尾迹上的白色模糊区域。"
         }
     },
     "particletuner": {
@@ -44,16 +44,16 @@
     "preciseplayerheight": {
         "id": "preciseplayerheight",
         "names": {
-            "MorePrecisePlayerHeight": null
+            "MorePrecisePlayerHeight": "更精确的身高"
         },
         "descriptions": {
-            "Original mod made by Eris for PC (Ported by Lillie)\r\n\r\nA very small Beat Saber mod that's let you view your own height with higher precision... at least one more decimal.\r\n\r\nConfig:\r\n    - enabled (true | false) - Enables the mod\r\n    - measureInFeet (true | false ) - Changes from meter to Feet.": null
+            "Original mod made by Eris for PC (Ported by Lillie)\r\n\r\nA very small Beat Saber mod that's let you view your own height with higher precision... at least one more decimal.\r\n\r\nConfig:\r\n    - enabled (true | false) - Enables the mod\r\n    - measureInFeet (true | false ) - Changes from meter to Feet.": "让你以更高精度查看自己的身高。支持米/英尺切换。"
         }
     },
     "QuestSounds": {
         "id": "QuestSounds",
         "names": {
-            "QuestSounds": "Quest音效",
+            "QuestSounds": "音效",
             "Quest Sounds": null
         },
         "descriptions": {
@@ -65,28 +65,28 @@
     "rumblerumblequest": {
         "id": "rumblerumblequest",
         "names": {
-            "RumbleRumbleQuest": null
+            "RumbleRumbleQuest": "震动调节"
         },
         "descriptions": {
-            "RumbleRumbleQuest allows you to adjust controller haptics \"rumbles\" in-game. RumbleRumbleQuest is a Quest port of the popular RumbleMod.": null
+            "RumbleRumbleQuest allows you to adjust controller haptics \"rumbles\" in-game. RumbleRumbleQuest is a Quest port of the popular RumbleMod.": "在游戏中调节控制器震动强度。流行PC模组的移植版。"
         }
     },
     "ScorePercentage": {
         "id": "ScorePercentage",
         "names": {
-            "Score Percentage": null
+            "Score Percentage": "分数百分比"
         },
         "descriptions": {
-            "Now with Settings UI! wait does pc even have that????\r\n\r\nChangelog:\r\n-Added Settings UI\r\n-Revamped Config code thanks to darknight1050 \r\n-Updated for 1.12.2\r\n-Fixed a bug with the average option": null
+            "Now with Settings UI! wait does pc even have that????\r\n\r\nChangelog:\r\n-Added Settings UI\r\n-Revamped Config code thanks to darknight1050 \r\n-Updated for 1.12.2\r\n-Fixed a bug with the average option": "完成关卡后显示额外分数信息，支持设置界面。"
         }
     },
     "TrailOverlap": {
         "id": "TrailOverlap",
         "names": {
-            "QuestTrailOverlap": null
+            "QuestTrailOverlap": "尾迹重叠"
         },
         "descriptions": {
-            "Makes the saber trails overlap instead of cut into eachother": null
+            "Makes the saber trails overlap instead of cut into eachother": "让光剑尾迹重叠而不是互相切割。"
         }
     },
     "AntiVertigo": {
@@ -109,17 +109,17 @@
     "auto-debris": {
         "id": "auto-debris",
         "names": {
-            "AutoDebris": null
+            "AutoDebris": "自动碎片"
         },
         "descriptions": {
-            "Automatically enables or disables debris based on the NPS of the song, or playlist that a song is in.": null
+            "Automatically enables or disables debris based on the NPS of the song, or playlist that a song is in.": "根据歌曲NPS或歌单自动启用或禁用碎片效果。"
         }
     },
     "BeatTogether": {
         "id": "BeatTogether",
         "names": {
-            "BeatTogether": null,
-            "Beat Together": null
+            "BeatTogether": "BeatTogether联机",
+            "Beat Together": "BeatTogether联机"
         },
         "descriptions": {
             "A multiplayer private server for the modding community. Supports crossplay between PC and Quest.": "这是模组社区的非官方多人服务器。支持PC和Quest跨平台游戏。"
@@ -128,7 +128,7 @@
     "bts-yeeter": {
         "id": "bts-yeeter",
         "names": {
-            "BTS Yeeter": null
+            "BTS Yeeter": "BTS移除器"
         },
         "descriptions": {
             "This is a little mod that removes the BTS gremlins that fly around their maps.": null,
@@ -138,16 +138,16 @@
     "BurnMarksKeeper": {
         "id": "BurnMarksKeeper",
         "names": {
-            "Burn Marks Keeper": null
+            "Burn Marks Keeper": "燃烧痕迹保留"
         },
         "descriptions": {
-            "Stops your burn marks from ever disappearing when you collide your sabers with the ground! \r\nRequires PinkCore.": null
+            "Stops your burn marks from ever disappearing when you collide your sabers with the ground! \r\nRequires PinkCore.": "防止光剑与地面碰撞产生的燃烧痕迹消失。需要PinkCore。"
         }
     },
     "clockmod": {
         "id": "clockmod",
         "names": {
-            "Clock Mod": null
+            "Clock Mod": "时钟模组"
         },
         "descriptions": {
             "Features:\r\n- Toggle Clock off in maps.\r\n- Change Clock between 24/12 Hour format.\r\n- Toggle Seconds on/off\r\n- Added HoverText explanations to the config menu.\r\n\r\nMissing Features:\r\n- Change size\r\n- Change color\r\n\r\nNote:\r\nSince the original source code only had the code to show the clock, I had to rewrite things like changing the format to 12 from 24 hours and toggling seconds on and off.\r\nWhich means any previous config values will not load. You will have to set the settings again.": null,
@@ -157,60 +157,60 @@
     "custom-fail-text": {
         "id": "custom-fail-text",
         "names": {
-            "Custom Fail Text": null,
-            "CustomFailText": null
+            "Custom Fail Text": "自定义失败文字",
+            "CustomFailText": "自定义失败文字"
         },
         "descriptions": {
-            "Allows you to customise the text that appears when you fail a level.\r\nThe text can be changed in the mod settings menu.": null,
-            "Allows you to customise the text that you see when you fail a level.": null
+            "Allows you to customise the text that appears when you fail a level.\r\nThe text can be changed in the mod settings menu.": "允许自定义失败时的文字。可在模组设置中更改。",
+            "Allows you to customise the text that you see when you fail a level.": "允许自定义失败时的文字。可在模组设置中更改。"
         }
     },
     "DarthMaul": {
         "id": "DarthMaul",
         "names": {
-            "Darth Maul": null
+            "Darth Maul": "达斯·摩尔"
         },
         "descriptions": {
-            "A long awated rewrite of the original Darth Maul mod by Henwill8, which was originally created by riku1227!\r\nThis also contains many config options and is initially toggleable via the in-game modifiers.": null
+            "A long awated rewrite of the original Darth Maul mod by Henwill8, which was originally created by riku1227!\r\nThis also contains many config options and is initially toggleable via the in-game modifiers.": "万众期待的达斯·摩尔模组重写版！原版由riku1227制作。"
         }
     },
     "DebrisTweaks": {
         "id": "DebrisTweaks",
         "names": {
-            "DebrisTweaks": null
+            "DebrisTweaks": "碎片调整"
         },
         "descriptions": {
-            "Allows for full customization of various note debris parameters, including scale, lifetime and velocity.": null,
-            "Adds various debris tweaks!": null
+            "Allows for full customization of various note debris parameters, including scale, lifetime and velocity.": "完全自定义方块碎片参数，包括碎片大小、持续时间和速度。",
+            "Adds various debris tweaks!": "完全自定义方块碎片参数，包括碎片大小、持续时间和速度。"
         }
     },
     "discord-presence": {
         "id": "discord-presence",
         "names": {
-            "Discord Presence": null
+            "Discord Presence": "Discord状态"
         },
         "descriptions": {
-            "Allows discord rich presence to see which song you're playing, the current time, and much more.\r\n\r\nMod Installation: https://github.com/Lauriethefish/Quest-Discord-Presence-Client/blob/main/README.md\r\nYou must follow this to set up the client on your PC and the mod on your Quest.\r\nIf you get a virus warning during installation, ignore it, this isn't a virus - Windows is oversensitive.\r\n\r\nAlternatively, follow this guide to use MadMagic's app for general presence of any Quest app: https://github.com/madmagic007/Oculus-Quest-Presence\r\n\r\nIf it's not working, try these:\r\n- Make sure your Quest IP hasn't changed, if so, update it in the app, see installation.\r\n- Make sure you've opened the app.\r\n- Make sure Beat Saber is open and your headset is on your head.\r\n- You have discord on your PC not in the browser.\r\n- Try restarting discord.": null,
-            "null": null,
-            "Allows discord rich presence to see which song you're playing, the current time, and much more.": null
+            "Allows discord rich presence to see which song you're playing, the current time, and much more.\r\n\r\nMod Installation: https://github.com/Lauriethefish/Quest-Discord-Presence-Client/blob/main/README.md\r\nYou must follow this to set up the client on your PC and the mod on your Quest.\r\nIf you get a virus warning during installation, ignore it, this isn't a virus - Windows is oversensitive.\r\n\r\nAlternatively, follow this guide to use MadMagic's app for general presence of any Quest app: https://github.com/madmagic007/Oculus-Quest-Presence\r\n\r\nIf it's not working, try these:\r\n- Make sure your Quest IP hasn't changed, if so, update it in the app, see installation.\r\n- Make sure you've opened the app.\r\n- Make sure Beat Saber is open and your headset is on your head.\r\n- You have discord on your PC not in the browser.\r\n- Try restarting discord.": "Discord状态增强，显示正在游玩的歌曲、时长等信息。",
+            "null": "Discord状态增强，显示正在游玩的歌曲、时长等信息。",
+            "Allows discord rich presence to see which song you're playing, the current time, and much more.": "Discord状态增强，显示正在游玩的歌曲、时长等信息。"
         }
     },
     "instafailaccuracy": {
         "id": "instafailaccuracy",
         "names": {
-            "InstaFailAccuracy": null
+            "InstaFailAccuracy": "精度失败"
         },
         "descriptions": {
-            "InstaFailAccuracy allows you to set a certain accuracy threshold that if you go below, you will fail the level! All of these can be changed through a simple in-game GUI too!\r\n\r\nKnown bugs:\r\n- Your game will crash if you watch a replay that includes you dying to going below your accuracy threshold.": null
+            "InstaFailAccuracy allows you to set a certain accuracy threshold that if you go below, you will fail the level! All of these can be changed through a simple in-game GUI too!\r\n\r\nKnown bugs:\r\n- Your game will crash if you watch a replay that includes you dying to going below your accuracy threshold.": "设置一个精度阈值，低于该阈值时自动失败。所有与分数相关的设置均可自定义。"
         }
     },
     "InvertedArrows": {
         "id": "InvertedArrows",
         "names": {
-            "Inverted Arrows": null
+            "Inverted Arrows": "反向箭头"
         },
         "descriptions": {
-            "Customize all arrow directions on a beatmap": null
+            "Customize all arrow directions on a beatmap": "自定义谱面中所有箭头的方向。"
         }
     },
     "MappingExtensions": {
@@ -236,112 +236,112 @@
     "mplighting": {
         "id": "mplighting",
         "names": {
-            "MultiplayerLighting": null
+            "MultiplayerLighting": "多人灯光"
         },
         "descriptions": {
-            "A mod that adds basic full color lighting to multiplayer, including ChromaLite (rainbow) support!": null
+            "A mod that adds basic full color lighting to multiplayer, including ChromaLite (rainbow) support!": "为多人游戏添加基本全彩灯光，包括ChromaLite（彩虹）支持。"
         }
     },
     "no-health-and-safety": {
         "id": "no-health-and-safety",
         "names": {
-            "No Health And Safety": null
+            "No Health And Safety": "跳过健康提示"
         },
         "descriptions": {
-            "Removes that annoying health and safety pop-up after starting the game.": null
+            "Removes that annoying health and safety pop-up after starting the game.": "移除启动游戏时烦人的健康和安全提示。"
         }
     },
     "NoBoom": {
         "id": "NoBoom",
         "names": {
-            "No Boom": null
+            "No Boom": "无爆炸特效"
         },
         "descriptions": {
-            "A Port of Spookys NoBoom mod. Disables the bomb particle effects, mainly used for recording.": null
+            "A Port of Spookys NoBoom mod. Disables the bomb particle effects, mainly used for recording.": "禁用炸弹粒子效果，主要用于录屏。移植自Spooky的NoBoom模组。"
         }
     },
     "NoItalics": {
         "id": "NoItalics",
         "names": {
-            "No Italics": null
+            "No Italics": "无斜体"
         },
         "descriptions": {
-            "Unslants everything in the menu! WARNING, THIS LOOKS VERY WEIRD. THE GAME WAS NOT DESIGNED FOR THIS.": null
+            "Unslants everything in the menu! WARNING, THIS LOOKS VERY WEIRD. THE GAME WAS NOT DESIGNED FOR THIS.": "取消菜单中的所有斜体！警告：看起来会很奇怪，游戏本就不是设计成这样的。"
         }
     },
     "nomisstext": {
         "id": "nomisstext",
         "names": {
-            "No Miss Text": null
+            "No Miss Text": "无失误文字"
         },
         "descriptions": {
-            "Made with permission from Pink. Original mod by Pink and CyanSnow.\r\n\r\nRemoves the miss and bad cut text along with the combo break animation! You can also hide how bad you are :thonkerguns:": null
+            "Made with permission from Pink. Original mod by Pink and CyanSnow.\r\n\r\nRemoves the miss and bad cut text along with the combo break animation! You can also hide how bad you are :thonkerguns:": "移除失误和判定文字及其伴随效果。经授权移植自Pink和CyanSnow的原作。"
         }
     },
     "pause-confirm": {
         "id": "pause-confirm",
         "names": {
-            "PauseConfirm": null
+            "PauseConfirm": "暂停确认"
         },
         "descriptions": {
-            "Makes you confirm before going back to the menu, restarting or pressing continue when in the pause menu. This is to avoid you accidentally doing it when you're about to set a really good play, which I'm sure you've all done many times.\r\n\r\nTo choose which buttons require confirmation go to the Settings Icon in the main menu -> Mod Settings -> PauseConfirm. The default is that all three buttons require confirmation, but some might not want that.": null
+            "Makes you confirm before going back to the menu, restarting or pressing continue when in the pause menu. This is to avoid you accidentally doing it when you're about to set a really good play, which I'm sure you've all done many times.\r\n\r\nTo choose which buttons require confirmation go to the Settings Icon in the main menu -> Mod Settings -> PauseConfirm. The default is that all three buttons require confirmation, but some might not want that.": "暂停菜单中返回、重开或继续前需要确认，防止误操作。"
         }
     },
     "PinkCore": {
         "id": "PinkCore",
         "names": {
-            "PinkCore": null
+            "PinkCore": "PinkCore核心"
         },
         "descriptions": {
-            "PinkCore, formerly known as PinkUtils is a core mod that ports over many required features which ensures a smooth PC-Like experience.": null,
+            "PinkCore, formerly known as PinkUtils is a core mod that ports over many required features which ensures a smooth PC-Like experience.": "PinkCore核心模组，移植了SongCore其余功能，确保流畅的PC式体验。",
             "PinkCore is a core mod that ports over the rest of SongCore's features.\nThis includes adding information to your game such as Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, and more!": null
         }
     },
     "PracticePlus": {
         "id": "PracticePlus",
         "names": {
-            "PracticePlus": null
+            "PracticePlus": "练习增强"
         },
         "descriptions": {
-            "A mod that adds a few features to the practice mode menu\r\n\r\n - Set the NJS and note offset for the song\r\n - Expands the speed slider from 50%-200% to 25%-300% (because why not)\r\n\r\nThis is an updated/refactored version of the mod originally made by L_, and should hopefully be easy to update in the future.\r\n\r\nNOTE: The in-game menu for setting njs/offset is gone for now, until I can figure out why new buttons in the pause menu aren't clickable": null
+            "A mod that adds a few features to the practice mode menu\r\n\r\n - Set the NJS and note offset for the song\r\n - Expands the speed slider from 50%-200% to 25%-300% (because why not)\r\n\r\nThis is an updated/refactored version of the mod originally made by L_, and should hopefully be easy to update in the future.\r\n\r\nNOTE: The in-game menu for setting njs/offset is gone for now, until I can figure out why new buttons in the pause menu aren't clickable": "增强练习模式：可设置NJS和音符偏移、调整时间轴缩放等。"
         }
     },
     "practice_skipper": {
         "id": "practice_skipper",
         "names": {
-            "Practice Skipper": null
+            "Practice Skipper": "练习跳跃"
         },
         "descriptions": {
-            "Adds the ability to seek and change song speed while in practice mode. Double tap left or right with your left controller's analog stick to skip through the song, and double tap up or down to adjust the song speed. Options are available to change which controller to use, how long to skip, and how much to change speed.": null
+            "Adds the ability to seek and change song speed while in practice mode. Double tap left or right with your left controller's analog stick to skip through the song, and double tap up or down to adjust the song speed. Options are available to change which controller to use, how long to skip, and how much to change speed.": "在练习模式中快进和变速。双击左/右控制器快进/快退。"
         }
     },
     "Qosmetics": {
         "id": "Qosmetics",
         "names": {
-            "Qosmetics": null
+            "Qosmetics": "Qosmetics美化"
         },
         "descriptions": {
-            "Quest Cosmetics on a whole new level!": null
+            "Quest Cosmetics on a whole new level!": "游戏中的美化系统，全新升级！"
         }
     },
     "QuestHitscoreVisualizer": {
         "id": "QuestHitscoreVisualizer",
         "names": {
-            "Hitscore Visualizer": null
+            "Hitscore Visualizer": "打击分数可视化"
         },
         "descriptions": {
-            "Displays your scores for each note with customizable colors, text, images, and even sound!": null
+            "Displays your scores for each note with customizable colors, text, images, and even sound!": "自定义每个音符的分数显示，支持颜色、文字、图片甚至音效！"
         }
     },
     "RedBar": {
         "id": "RedBar",
         "names": {
-            "RedBar": null
+            "RedBar": "红色血条"
         },
         "descriptions": {
             "Change the color of your health bar according to your health\n\nFeatures:\n- Custom color for your energy bar which changes according to your health\n- Rainbow mode": null,
             "null": null,
-            "Change the color of your health bar according to your health": null
+            "Change the color of your health bar according to your health": "根据你的生命值改变生命条的颜色。支持自定义颜色，随生命值渐变。"
         }
     },
     "replay": {
@@ -361,64 +361,64 @@
     "slow-resume": {
         "id": "slow-resume",
         "names": {
-            "SlowResume": null
+            "SlowResume": "慢速继续"
         },
         "descriptions": {
-            "Allows you to change how long the countdown takes to resume when paused. Disables score submission if the amount of time is increased, since this makes pausing an easier method to get back your stamina.\r\n\r\nTo change the amount of time, go to the Settings Icon in the main menu -> Mod Settings -> SlowResume.\r\n\r\nThis mod was commissioned": null
+            "Allows you to change how long the countdown takes to resume when paused. Disables score submission if the amount of time is increased, since this makes pausing an easier method to get back your stamina.\r\n\r\nTo change the amount of time, go to the Settings Icon in the main menu -> Mod Settings -> SlowResume.\r\n\r\nThis mod was commissioned": "调整暂停后继续倒计时的时间。如果时间超过设置值，将禁用分数提交。"
         }
     },
     "AddedModifiers": {
         "id": "AddedModifiers",
         "names": {
-            "Added Modifiers": null
+            "Added Modifiers": "额外修饰"
         },
         "descriptions": {
-            "Adds additional modifiers to your game": null
+            "Adds additional modifiers to your game": "为游戏增加额外的难度修饰选项。"
         }
     },
     "Codegen": {
         "id": "Codegen",
         "names": {
-            "Codegen": null
+            "Codegen": "代码生成库"
         },
         "descriptions": {
-            "A core library used by almost every mod. DO NOT ATTEMPT TO UNINSTALL IT!": null
+            "A core library used by almost every mod. DO NOT ATTEMPT TO UNINSTALL IT!": "几乎所有模组都依赖的核心库。不要卸载！"
         }
     },
     "CrashMod": {
         "id": "CrashMod",
         "names": {
-            "CrashMod": null,
-            "Crash Mod": null
+            "CrashMod": "崩溃模组",
+            "Crash Mod": "崩溃模组"
         },
         "descriptions": {
-            "Crash your game if you are bad and good\nFeatures:\n- Crash your mod via various triggers. e. g. Crash on Play, Miss, Good cut, Turn and way more": null,
-            "null": null,
-            "Crash your game if you are bad and good": null
+            "Crash your game if you are bad and good\nFeatures:\n- Crash your mod via various triggers. e. g. Crash on Play, Miss, Good cut, Turn and way more": "打得菜就会崩溃——支持多种触发条件：游玩、失误、好评等。",
+            "null": "打得菜就会崩溃——支持多种触发条件：游玩、失误、好评等。",
+            "Crash your game if you are bad and good": "打得菜就会崩溃——支持多种触发条件：游玩、失误、好评等。"
         }
     },
     "CustomBackgrounds": {
         "id": "CustomBackgrounds",
         "names": {
-            "Custom Backgrounds": null
+            "Custom Backgrounds": "自定义背景"
         },
         "descriptions": {
-            "Import your own 360 images as custom skyboxes!\nScans the 'CustomBackgrounds' ModData folder for imported images.": null
+            "Import your own 360 images as custom skyboxes!\nScans the 'CustomBackgrounds' ModData folder for imported images.": "导入自己的360度图片作为自定义天空盒。扫描'CustomBackgrounds'目录中的图片。"
         }
     },
     "CustomPillowsQuest": {
         "id": "CustomPillowsQuest",
         "names": {
-            "Custom Pillows Quest": null
+            "Custom Pillows Quest": "自定义枕头"
         },
         "descriptions": {
-            "This mod is a spiritual port of the mod for PC of the same name by Toni Macaroni!\r\nThese pillows can be anything you want them to be, as long as you can put it on a flat texture. This mod was Commissioned by @TKC \r\n\r\n - Pillows Take their texture from a pool of active textures, enabled in the mod settings and listed from sdcard/ModData/com.beatgames.beatsaber/Mods/CustomPillowsQuest/images\r\n - Pillows spawn using a constellation, configured in the mod settings and located at sdcard/ModData/com.beatgames.beatsaber/Mods/CustomPillowsQuest/constellations\r\n - The mod can be disabled in the menu\r\n - Features a shuffle button in the menu for shuffling the current iteration of textures\r\n\r\nExtra Pillow Textures:\r\nhttps://github.com/RedBrumbler/CustomPillowsQuest/releases/download/1.0.0/ExtraPillows.zip": null
+            "This mod is a spiritual port of the mod for PC of the same name by Toni Macaroni!\r\nThese pillows can be anything you want them to be, as long as you can put it on a flat texture. This mod was Commissioned by @TKC \r\n\r\n - Pillows Take their texture from a pool of active textures, enabled in the mod settings and listed from sdcard/ModData/com.beatgames.beatsaber/Mods/CustomPillowsQuest/images\r\n - Pillows spawn using a constellation, configured in the mod settings and located at sdcard/ModData/com.beatgames.beatsaber/Mods/CustomPillowsQuest/constellations\r\n - The mod can be disabled in the menu\r\n - Features a shuffle button in the menu for shuffling the current iteration of textures\r\n\r\nExtra Pillow Textures:\r\nhttps://github.com/RedBrumbler/CustomPillowsQuest/releases/download/1.0.0/ExtraPillows.zip": "这个模组是PC同名模组的移植版！这些枕头可以是任何你想要的东西。"
         }
     },
     "CustomTypes": {
         "id": "CustomTypes",
         "names": {
-            "Custom Types": null
+            "Custom Types": "自定义类型"
         },
         "descriptions": {
             "Core mod required for other mods to function!": "此库为其它模组提供支持功能。"
@@ -427,10 +427,10 @@
     "fastfail": {
         "id": "fastfail",
         "names": {
-            "Fast Fail": null
+            "Fast Fail": "快速失败"
         },
         "descriptions": {
-            "Speeds up the fail animation!": null
+            "Speeds up the fail animation!": "加速失败动画。"
         }
     },
     "IntroSkip": {
@@ -439,7 +439,7 @@
             "Intro Skip": "跳过起始部分"
         },
         "descriptions": {
-            "Skip the intro and outro of maps": "跳过谱面的起始和结束部分"
+            "Skip the intro and outro of maps": "跳过谱面的起始和结束部分。"
         }
     },
     "play3rdper": {
@@ -449,65 +449,65 @@
             "Third Person mod": null
         },
         "descriptions": {
-            "View yourself in 3rd person while playing. Features include a spinning camera, flying through the whole beat saber environment and way more": null,
+            "View yourself in 3rd person while playing. Features include a spinning camera, flying through the whole beat saber environment and way more": "第三人称视角玩节奏光剑。支持相机旋转、飞行等特性。",
             "A mod which lets you play in third person\r\n\r\nFeatures:\r\n- Play with a fixed camera position\r\n- Fly anywhere\r\n- Fix the camera to your saber\r\n- And more options to keep you away from motion sickness": null
         }
     },
     "qounters-minus": {
         "id": "qounters-minus",
         "names": {
-            "Qounters-": null
+            "Qounters-": "Qounters-计数器"
         },
         "descriptions": {
-            "Store brand version of Counters+ for the Quest version of Beat Saber. Adds a variety of configurable Qounters to display statistics in-game.": null
+            "Store brand version of Counters+ for the Quest version of Beat Saber. Adds a variety of configurable Qounters to display statistics in-game.": "Counters+的平价替代。增加各种可配置的计数器来显示游戏信息。"
         }
     },
     "questui": {
         "id": "questui",
         "names": {
-            "QuestUI": null
+            "QuestUI": "UI库"
         },
         "descriptions": {
-            "A library used to add Mod Settings and other UI.": null,
+            "A library used to add Mod Settings and other UI.": "用于添加模组设置和其他UI的库。",
             "null": null
         }
     },
     "slicevisualizer": {
         "id": "slicevisualizer",
         "names": {
-            "Slice Visualizer": null
+            "Slice Visualizer": "切片可视化"
         },
         "descriptions": {
-            "See your slices right in front of you": null
+            "See your slices right in front of you": "在你面前显示挥砍轨迹。"
         }
     },
     "SongDifficultyChart": {
         "id": "SongDifficultyChart",
         "names": {
-            "Song Difficulty Chart": null
+            "Song Difficulty Chart": "难度图表"
         },
         "descriptions": {
-            "null": null
+            "null": "显示谱面难度图表。"
         }
     },
     "TrickSaber": {
         "id": "TrickSaber",
         "names": {
-            "TrickSaber": null
+            "TrickSaber": "花式光剑"
         },
         "descriptions": {
-            "Do tricks and stuff": null
+            "Do tricks and stuff": "转剑、甩剑……花式玩光剑！"
         }
     },
     "codegen": {
         "id": "codegen",
         "names": {
-            "Codegen": null,
-            "codegen": null
+            "Codegen": "代码生成库",
+            "codegen": "代码生成库"
         },
         "descriptions": {
-            "A core library used by almost every mod. DO NOT ATTEMPT TO UNINSTALL IT!": null,
-            "null": null
+            "A core library used by almost every mod. DO NOT ATTEMPT TO UNINSTALL IT!": "几乎所有模组都依赖的核心库。不要卸载！",
+            "null": "几乎所有模组都依赖的核心库。不要卸载！"
         }
     },
     "custom-types": {
@@ -523,7 +523,7 @@
     "qinst": {
         "id": "qinst",
         "names": {
-            "qInstaller": null,
+            "qInstaller": "Qosmetics旧版安装器",
             "AwesomeOldQosmeticsModelInstaller": "很棒的旧版本Qosmetics安装器"
         },
         "descriptions": {
@@ -534,19 +534,19 @@
     "anxiety": {
         "id": "anxiety",
         "names": {
-            "anxiety": null
+            "anxiety": "焦虑症"
         },
         "descriptions": {
-            "i got bored (again)": null
+            "i got bored (again)": "我闲得无聊（又一个）。"
         }
     },
     "Bandoot-SoundPack": {
         "id": "Bandoot-SoundPack",
         "names": {
-            "Bandoot SoundPack": null
+            "Bandoot SoundPack": "Bandoot音效包"
         },
         "descriptions": {
-            "The Bandoot Sound Pack contains Sounds used by Bandoot.": null
+            "The Bandoot Sound Pack contains Sounds used by Bandoot.": "Bandoot音效包，包含Bandoot使用的各种音效。"
         }
     },
     "chatui": {
@@ -561,7 +561,7 @@
     "chroma": {
         "id": "chroma",
         "names": {
-            "Chroma": null
+            "Chroma": "颜色"
         },
         "descriptions": {
             "Colors!": "颜色！"
@@ -570,105 +570,105 @@
     "ComboSplitter": {
         "id": "ComboSplitter",
         "names": {
-            "Combo Splitter": null
+            "Combo Splitter": "连击分离"
         },
         "descriptions": {
-            "Features:\r\nSplits the combo into two different counters--one for each hand.\r\nFollows the selected saber color scheme (can be disabled)": null
+            "Features:\r\nSplits the combo into two different counters--one for each hand.\r\nFollows the selected saber color scheme (can be disabled)": "将连击数分成左右手两个计数器。支持对应光剑颜色方案。"
         }
     },
     "CustomPillows": {
         "id": "CustomPillows",
         "names": {
-            "Custom Pillows": null
+            "Custom Pillows": "自定义枕头"
         },
         "descriptions": {
-            "Custom Pillow mod for Quest\nOriginal by Toni Macaroni for PC": null
+            "Custom Pillow mod for Quest\nOriginal by Toni Macaroni for PC": "自定义枕头模组。原作由Toni Macaroni制作。"
         }
     },
     "darthmaul": {
         "id": "darthmaul",
         "names": {
-            "darthmaul": null,
-            "Darth Maul": null
+            "darthmaul": "达斯·摩尔",
+            "Darth Maul": "达斯·摩尔"
         },
         "descriptions": {
-            "i got bored (again)": null,
-            "Double saber thing": null
+            "i got bored (again)": "我闲得无聊（又一个）。",
+            "Double saber thing": "双光剑玩法。"
         }
     },
     "fasterscroll": {
         "id": "fasterscroll",
         "names": {
-            "Faster Scroll": null
+            "Faster Scroll": "快速滚动"
         },
         "descriptions": {
-            "Find your song faster with this customizable faster scrolling mod.": null
+            "Find your song faster with this customizable faster scrolling mod.": "用这个可自定义的快速滚动模组更快找到你的歌。"
         }
     },
     "feetsaber": {
         "id": "feetsaber",
         "names": {
-            "feetsaber": null
+            "feetsaber": "脚玩光剑"
         },
         "descriptions": {
-            "i got bored": null,
-            "Phazed became bored": null
+            "i got bored": "我闲得无聊。",
+            "Phazed became bored": "Phazed 闲得无聊。"
         }
     },
     "fish-utils": {
         "id": "fish-utils",
         "names": {
-            "FishUtils": null
+            "FishUtils": "Fish工具库"
         },
         "descriptions": {
-            "null": null,
-            "A general quality-of-life mod with many small improvements, e.g. automatically changing settings based on the level, and various pause tweaks.": null
+            "null": "Fish工具库。",
+            "A general quality-of-life mod with many small improvements, e.g. automatically changing settings based on the level, and various pause tweaks.": "通用的生活品质增强模组，包含多项小功能改进。"
         }
     },
     "FlailSaber001": {
         "id": "FlailSaber001",
         "names": {
-            "FlailSaber": null
+            "FlailSaber": "链枷光剑"
         },
         "descriptions": {
-            "Supposedly sabers are like flails": null
+            "Supposedly sabers are like flails": "光剑就像链枷一样。"
         }
     },
     "FNF-SoundPack": {
         "id": "FNF-SoundPack",
         "names": {
-            "Friday Night Funkin SoundPack": null
+            "Friday Night Funkin SoundPack": "FNF音效包"
         },
         "descriptions": {
-            "The Friday Night Funkin Sound Pack contains Sounds from the Game Friday Night Funkint to funk along to in Beat Saber.": null
+            "The Friday Night Funkin Sound Pack contains Sounds from the Game Friday Night Funkint to funk along to in Beat Saber.": "包含Friday Night Funkin游戏中的音效，让你在打谱时也能蹦迪。"
         }
     },
     "hitscore": {
         "id": "hitscore",
         "names": {
-            "Hit Score Visualizer": null
+            "Hit Score Visualizer": "打击分数可视化"
         },
         "descriptions": {
-            "Changes the scores that pop up when you hit notes.": null,
-            "null": null
+            "Changes the scores that pop up when you hit notes.": "修改击打音符时弹出的分数文字。支持自定义颜色、文字、图片甚至音效。",
+            "null": "修改击打音符时弹出的分数文字。支持自定义颜色、文字、图片甚至音效。"
         }
     },
     "IForgor": {
         "id": "IForgor",
         "names": {
-            "I Forgor": null
+            "I Forgor": "我忘了"
         },
         "descriptions": {
-            "I Forgor": null
+            "I Forgor": "我忘了 💀"
         }
     },
     "Osu-SoundPack": {
         "id": "Osu-SoundPack",
         "names": {
-            "Osu SoundPack": null
+            "Osu SoundPack": "Osu音效包"
         },
         "descriptions": {
-            "The Osu Sound Pack contains Sounds from Osu.": null
+            "The Osu Sound Pack contains Sounds from Osu.": "包含Osu游戏中的音效。"
         }
     },
     "Play3rdPer": {
@@ -693,35 +693,35 @@
             "null": null,
             "Adds custom playlists to the game": null,
             "Create and manage playlists ingame!": null,
-            "Manage all your songs and playlists!": "管理你的全部歌曲和歌单"
+            "Manage all your songs and playlists!": "管理你的全部歌曲和歌单。"
         }
     },
     "QonsistentSaberColors": {
         "id": "QonsistentSaberColors",
         "names": {
-            "QonsistentSaberColors": null
+            "QonsistentSaberColors": "光剑颜色同步"
         },
         "descriptions": {
-            "Menu saber colors reflect in game saber colors.": null,
-            "Menu saber colors reflect in game saber colors. @drumtool#4435": null
+            "Menu saber colors reflect in game saber colors.": "菜单和游戏中的光剑颜色保持一致。",
+            "Menu saber colors reflect in game saber colors. @drumtool#4435": "菜单和游戏中的光剑颜色保持一致。"
         }
     },
     "QustomMenuText": {
         "id": "QustomMenuText",
         "names": {
-            "Quest Custom Menu Text": null
+            "Quest Custom Menu Text": "自定义菜单文字"
         },
         "descriptions": {
-            "Changes the menu text to a user-configurable text object": null
+            "Changes the menu text to a user-configurable text object": "将菜单文字改为用户可配置的文字对象。"
         }
     },
     "songbrowser": {
         "id": "songbrowser",
         "names": {
-            "SongBrowser": null
+            "SongBrowser": "谱面浏览器"
         },
         "descriptions": {
-            "Browsing your songs has never been easier!": null
+            "Browsing your songs has never been easier!": "浏览歌曲从未如此简单！"
         }
     },
     "songdownloader": {
@@ -738,75 +738,75 @@
     "songloader": {
         "id": "songloader",
         "names": {
-            "SongLoader": null,
-            "songloader": null
+            "SongLoader": "谱面加载器",
+            "songloader": "谱面加载器"
         },
         "descriptions": {
-            "null": null,
-            "Load Custom Songs at Runtime": null
+            "null": "谱面加载器。",
+            "Load Custom Songs at Runtime": "谱面加载器。"
         }
     },
     "streamer-tools": {
         "id": "streamer-tools",
         "names": {
-            "Streamer Tools": null
+            "Streamer Tools": "直播工具"
         },
         "descriptions": {
-            "Allows applications to get information from the game like, currently played song.": null
+            "Allows applications to get information from the game like, currently played song.": "允许外部应用获取游戏信息，如正在播放的歌曲等。"
         }
     },
     "crash-reporter": {
         "id": "crash-reporter",
         "names": {
-            "Crash Reporter": null
+            "Crash Reporter": "崩溃报告"
         },
         "descriptions": {
-            "Automatically reports crash logs": null
+            "Automatically reports crash logs": "自动上传崩溃日志。"
         }
     },
     "MorePrecisePlayerHeight": {
         "id": "MorePrecisePlayerHeight",
         "names": {
-            "More Precise Player Height": null
+            "More Precise Player Height": "更精确的身高"
         },
         "descriptions": {
-            "Let's you view your own height... but more precise.": null
+            "Let's you view your own height... but more precise.": "让你以更高精度查看自己的身高……至少多一位小数。"
         }
     },
     "MRCPlus": {
         "id": "MRCPlus",
         "names": {
-            "MRCPlus": null
+            "MRCPlus": "MRC增强"
         },
         "descriptions": {
-            "Unlock additional options for Oculus Mixed Reality Capture. Requires a PC running the MRC OBS plugin.": null
+            "Unlock additional options for Oculus Mixed Reality Capture. Requires a PC running the MRC OBS plugin.": "解锁Oculus混合现实捕捉的更多选项。需要PC运行MRC OBS插件。"
         }
     },
     "pinkcore": {
         "id": "pinkcore",
         "names": {
-            "PinkCore": null
+            "PinkCore": "PinkCore核心库"
         },
         "descriptions": {
-            "PinkCore is a core mod that ports over the rest of SongCore's features.\nThis includes adding information to your game such as Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, and more!": null
+            "PinkCore is a core mod that ports over the rest of SongCore's features.\nThis includes adding information to your game such as Mappers names, Mod Requirements, Custom Colours, Custom Difficulty names, Burn Marks, and more!": "PinkCore核心模组，移植了SongCore其余功能。为游戏增加谱面信息等支持。"
         }
     },
     "SongInfoPlus": {
         "id": "SongInfoPlus",
         "names": {
-            "SongInfoPlus": null
+            "SongInfoPlus": "歌曲信息增强"
         },
         "descriptions": {
-            "View extra song info by clicking the cover art": null
+            "View extra song info by clicking the cover art": "点击封面查看额外的歌曲信息。"
         }
     },
     "aikatweaks": {
         "id": "aikatweaks",
         "names": {
-            "AikaTweaks": null
+            "AikaTweaks": "Aika设置"
         },
         "descriptions": {
-            "Various tweaks for Beat Saber.": null
+            "Various tweaks for Beat Saber.": "提供各种节奏光剑的调整选项。"
         }
     },
     "BeatLeader": {
@@ -818,56 +818,56 @@
             "null": null,
             "Posts scores to https://beatleader.xyz/ and shows in-game leaderboards.": null,
             "Open source custom maps leaderboard": null,
-            "beatleader.xyz | In-game leaderboards for custom and OST maps | Score replays | Clans, events, playlists and much more": "beatleader.xyz | 自制谱面/OST排行榜 | 录制回放 | 战队、赛事、歌单等等",
-            "beatleader.com | In-game leaderboards for custom and OST maps | Score replays | Clans, events, playlists and much more": "beatleader.com | 自制谱面/OST排行榜 | 录制回放 | 战队、赛事、歌单等等"
+            "beatleader.xyz | In-game leaderboards for custom and OST maps | Score replays | Clans, events, playlists and much more": "beatleader.xyz | 自制谱面/OST排行榜 | 录制回放 | 战队、赛事、歌单等等。",
+            "beatleader.com | In-game leaderboards for custom and OST maps | Score replays | Clans, events, playlists and much more": "beatleader.com | 自制谱面/OST排行榜 | 录制回放 | 战队、赛事、歌单等等。"
         }
     },
     "beatsaviordata": {
         "id": "beatsaviordata",
         "names": {
-            "BeatSaviorJustData": null,
-            "BeatSaviorData": null
+            "BeatSaviorJustData": "BeatSavior数据",
+            "BeatSaviorData": "BeatSavior数据"
         },
         "descriptions": {
-            "null": null,
-            "Gives a detailed overview of your performance when finishing a level!": null
+            "null": "BeatSavior数据组件。",
+            "Gives a detailed overview of your performance when finishing a level!": "BeatSavior数据组件。"
         }
     },
     "BetterSaberQolors": {
         "id": "BetterSaberQolors",
         "names": {
-            "Better Saber Qolors": null
+            "Better Saber Qolors": "光剑颜色增强"
         },
         "descriptions": {
-            "Allows for a better experience when choosing your saber colors": null
+            "Allows for a better experience when choosing your saber colors": "让你能更好地自定义光剑颜色。"
         }
     },
     "burnmarkqeeper": {
         "id": "burnmarkqeeper",
         "names": {
-            "BurnMarkQeeper": null
+            "BurnMarkQeeper": "燃烧痕迹保留"
         },
         "descriptions": {
-            "Welp you can kinda guess by the name it keeps your BurnMarks": null
+            "Welp you can kinda guess by the name it keeps your BurnMarks": "猜也能猜到——保留你的燃烧痕迹。"
         }
     },
     "Burnout": {
         "id": "Burnout",
         "names": {
-            "Burnout": null
+            "Burnout": "燃烧痕迹定制"
         },
         "descriptions": {
-            "Allows for full customization of saber burn marks.": null
+            "Allows for full customization of saber burn marks.": "完全自定义光剑燃烧痕迹效果。"
         }
     },
     "colorama": {
         "id": "colorama",
         "names": {
-            "Colorama": null
+            "Colorama": "菜单颜色"
         },
         "descriptions": {
-            "Change the colors of the menu and other neat color related options.": null,
-            "Change all the colors!": null
+            "Change the colors of the menu and other neat color related options.": "改变菜单颜色及其他相关的颜色选项。",
+            "Change all the colors!": "改变所有颜色！"
         }
     },
     "custom-json-data": {
@@ -876,110 +876,110 @@
             "CustomJSONData": "自定义JSON数据"
         },
         "descriptions": {
-            "Funny maps go brrr": null
+            "Funny maps go brrr": "搞怪谱面跑起来就完事了 brrrrr。"
         }
     },
     "DrinkWater": {
         "id": "DrinkWater",
         "names": {
-            "Drink Water": null
+            "Drink Water": "喝水提醒"
         },
         "descriptions": {
-            "Tells you to drink water": null
+            "Tells you to drink water": "提醒你喝水！"
         }
     },
     "FingerSaber": {
         "id": "FingerSaber",
         "names": {
-            "FingerSaber": null
+            "FingerSaber": "指尖光剑"
         },
         "descriptions": {
-            "Beat Saber At Your Finger Tips. @drumtool#4435": null
+            "Beat Saber At Your Finger Tips. @drumtool#4435": "用手指玩节奏光剑！"
         }
     },
     "fuckmaps": {
         "id": "fuckmaps",
         "names": {
-            "FuckMaps": null
+            "FuckMaps": "BPM过滤器"
         },
         "descriptions": {
-            "This mod crashes your game if you play a song below or above a configurable BPM.": null
+            "This mod crashes your game if you play a song below or above a configurable BPM.": "低于或超过设定BPM的谱面直接崩溃游戏。"
         }
     },
     "FullComboEffects": {
         "id": "FullComboEffects",
         "names": {
-            "Full Combo Effects": null
+            "Full Combo Effects": "全连特效"
         },
         "descriptions": {
-            "Modify the result view when getting full combo.": null
+            "Modify the result view when getting full combo.": "自定义全连时的结算界面效果。"
         }
     },
     "GayFrogs": {
         "id": "GayFrogs",
         "names": {
-            "GAY FROGS!": null
+            "GAY FROGS!": "青蛙同志"
         },
         "descriptions": {
-            "I DON'T LIKE EM' PUTTIN' CHEMICALS IN THE WATER THAT TURNED THE FREAKIN' FROGS GAY!!!": null
+            "I DON'T LIKE EM' PUTTIN' CHEMICALS IN THE WATER THAT TURNED THE FREAKIN' FROGS GAY!!!": "我不喜欢他们把化学品放进水里，把青蛙都搞gay了！！！"
         }
     },
     "HotSwappableMods": {
         "id": "HotSwappableMods",
         "names": {
-            "Hot-Swappable Mods": null
+            "Hot-Swappable Mods": "热切换模组"
         },
         "descriptions": {
-            "Allows you to enable and disable your mods from in game!": null,
-            "Allows you to easily reload mods from in game": null
+            "Allows you to enable and disable your mods from in game!": "在游戏中直接启用或禁用模组！",
+            "Allows you to easily reload mods from in game": "在游戏中直接启用或禁用模组！"
         }
     },
     "JDFixer": {
         "id": "JDFixer",
         "names": {
-            "JDFixer": null
+            "JDFixer": "跳跃距离修复"
         },
         "descriptions": {
             "null": null,
-            "This mod allows you to change the spawn offset of any map at will to a desired jump distance. Features also include setting the jump distance to the map's default or to a configurable reaction time.\r\n\r\nThis is a port of the PC mod with the same name, created by Zephyr: https://discord.com/channels/441805394323439646/889894313763422218/895936512938623056\r\nIf you find any bugs, please let me know.": null
+            "This mod allows you to change the spawn offset of any map at will to a desired jump distance. Features also include setting the jump distance to the map's default or to a configurable reaction time.\r\n\r\nThis is a port of the PC mod with the same name, created by Zephyr: https://discord.com/channels/441805394323439646/889894313763422218/895936512938623056\r\nIf you find any bugs, please let me know.": "允许你随意更改谱面的生成偏移，调整到你喜欢的跳跃距离。"
         }
     },
     "menuquotes": {
         "id": "menuquotes",
         "names": {
-            "Menu Quotes": null
+            "Menu Quotes": "菜单语录"
         },
         "descriptions": {
-            "Like minecraft but for beat saber": null,
-            "Like minecraft but for beat saber!": null
+            "Like minecraft but for beat saber": "就像Minecraft那样，但在节奏光剑里。",
+            "Like minecraft but for beat saber!": "就像Minecraft那样，但在节奏光剑里。"
         }
     },
     "multiquestensions": {
         "id": "multiquestensions",
         "names": {
-            "MultiQuestensions": null
+            "MultiQuestensions": "多人扩展"
         },
         "descriptions": {
-            "Lightweight port of MultiplayerExtensions, the PC mod that adds features to Multiplayer.": null,
+            "Lightweight port of MultiplayerExtensions, the PC mod that adds features to Multiplayer.": "移植自PC模组MultiplayerExtensions，为多人游戏增加更多特性的精简版。",
             "Lightweight port of MultiplayerExtensions, the PC mod that adds features to official Multiplayer.\r\n\r\nFeatures:\r\n- Lets you play Multiplayer with Custom Songs between PC and Quest.\r\n- Automatically downloads songs when missing.\r\n- Shows a loading indicator that shows how many players have the song downloaded and are ready\r\n- Shows a downloading indicator when downloading songs you're missing\r\n- Shows a platform icon for each player\r\n- Has a download history in the GameplaySetupMenu (GameplaySetupMenu is sometimes a bit buggy)\r\n- Auto-Delete Toggle to automatically delete songs that were downloaded in Multiplayer after playing them.\r\n- Lag Reducer Toggle that hides notes/bombs and walls from other players. (Specifically useful when playing ME maps)\r\n- Lets you select a custom color for your platform and name tag for everyone to see.\r\n- Increases the Max Players amount for Lobby creation to 10.\r\n- Disabled Avatar Pose Restrictions, you can freely walk over to others if you so desire.\r\n\r\nWarning: This mod is still not fully stable and you may experience issues such as crashes when playing with others. \r\n\r\nOther incompatible mods:\r\nChroma versions below v2.5.7\r\nDiscord Presence v0.3.5 and below\r\n\r\nRequires: Beat Together Mod post in this channel https://discord.com/channels/441805394323439646/885555565760237598/909500373465698355": null
         }
     },
     "noboom": {
         "id": "noboom",
         "names": {
-            "No Boom": null
+            "No Boom": "无爆炸特效"
         },
         "descriptions": {
-            "Gets rid of the boom particle affect": null
+            "Gets rid of the boom particle affect": "移除爆炸粒子效果。"
         }
     },
     "noitalics": {
         "id": "noitalics",
         "names": {
-            "NoItalics": null
+            "NoItalics": "无斜体"
         },
         "descriptions": {
-            "Port from PC mod I made it mainly to practice porting": null
+            "Port from PC mod I made it mainly to practice porting": "PC模组移植版，主要用于练习移植技术。"
         }
     },
     "NoodleExtensions": {
@@ -994,47 +994,47 @@
     "noParticles": {
         "id": "noParticles",
         "names": {
-            "No Particles": null
+            "No Particles": "无粒子效果"
         },
         "descriptions": {
-            "A simple Beat Saber mod for 1.17.1 that disables various particle effects": null
+            "A simple Beat Saber mod for 1.17.1 that disables various particle effects": "一个简单的模组，禁用各种粒子效果。"
         }
     },
     "noteVortex": {
         "id": "noteVortex",
         "names": {
-            "Note Vortex": null
+            "Note Vortex": "音符漩涡"
         },
         "descriptions": {
-            "A simple beat saber mod for 1.17.1 that allows control over notes": null
+            "A simple beat saber mod for 1.17.1 that allows control over notes": "一个简单的模组，可以控制音符的移动。"
         }
     },
     "ParticleTuner": {
         "id": "ParticleTuner",
         "names": {
-            "ParticleTuner": null
+            "ParticleTuner": "粒子调整工具"
         },
         "descriptions": {
-            "A partial port of the Particle Overdrive mod from PC with colorful sparckles and custom parameters including ambiend dust.": null
+            "A partial port of the Particle Overdrive mod from PC with colorful sparckles and custom parameters including ambiend dust.": "PC版ParticleOverdrive的部分移植版，调整切割方块后的粒子效果。"
         }
     },
     "playlisteditor": {
         "id": "playlisteditor",
         "names": {
-            "Playlist Editor": null
+            "Playlist Editor": "歌单编辑器"
         },
         "descriptions": {
-            "Modify the playlist in game.": null
+            "Modify the playlist in game.": "在游戏中修改歌单。"
         }
     },
     "qubes": {
         "id": "qubes",
         "names": {
-            "Qubes": null
+            "Qubes": "方块"
         },
         "descriptions": {
-            "null": null,
-            "Highly customizable Qubes(tm) that you can play with. Currently updated by speecil": null
+            "null": "立方式（即小方块）",
+            "Highly customizable Qubes(tm) that you can play with. Currently updated by speecil": "立方式（即小方块）。"
         }
     },
     "RandomSongPicker": {
@@ -1050,16 +1050,16 @@
     "RumbleMod": {
         "id": "RumbleMod",
         "names": {
-            "RumbleMod": null
+            "RumbleMod": "震动调节"
         },
         "descriptions": {
-            "Customisable controller feedback": null
+            "Customisable controller feedback": "自定义控制器震动反馈。"
         }
     },
     "sabertailor": {
         "id": "sabertailor",
         "names": {
-            "Saber Tailor": null
+            "Saber Tailor": "SaberTailor"
         },
         "descriptions": {
             "Edit controller settings for each saber independently. Also includes Kinsi's Controller Settings Helper mod": "分别为两个光剑单独编辑手柄设置。还包含了Kinsi的手柄辅助设置模组。"
@@ -1071,34 +1071,34 @@
             "Score Percentage": "分数百分比"
         },
         "descriptions": {
-            "shows extra information after completing a level": "在完成关卡后显示额外信息"
+            "shows extra information after completing a level": "在完成关卡后显示额外信息。"
         }
     },
     "scribble": {
         "id": "scribble",
         "names": {
-            "Scribble": null
+            "Scribble": "涂鸦"
         },
         "descriptions": {
-            "Let the Bob Ross in you take over!": null
+            "Let the Bob Ross in you take over!": "释放你心中的Bob Ross！在游戏中涂鸦。"
         }
     },
     "SearchFixes": {
         "id": "SearchFixes",
         "names": {
-            "SearchFixes": null
+            "SearchFixes": "搜索优化"
         },
         "descriptions": {
-            "An improved search algorithm for Beat Saber": null
+            "An improved search algorithm for Beat Saber": "为节奏光剑带来更智能的搜索算法。"
         }
     },
     "ServerBrowserQuest": {
         "id": "ServerBrowserQuest",
         "names": {
-            "Server Browser": null
+            "Server Browser": "服务器浏览器"
         },
         "descriptions": {
-            "Lets you browse and join Multiplayer Servers right from within the headset": null
+            "Lets you browse and join Multiplayer Servers right from within the headset": "在头显中直接浏览和加入多人游戏服务器。"
         }
     },
     "slicedetails": {
@@ -1122,41 +1122,41 @@
     "socket_lib": {
         "id": "socket_lib",
         "names": {
-            "SocketLib": null
+            "SocketLib": "Socket网络库"
         },
         "descriptions": {
-            "socket_lib, version 0.4.0!": null,
-            "socket_lib, version 0.4.1!": null,
-            "socket_lib, version 0.4.2!": null,
-            "socket_lib, version 0.4.3!": null,
-            "socket_lib, version 0.5.0!": null,
-            "socket_lib, version 0.5.1!": null,
-            "socket_lib, version 0.6.0!": null,
-            "socket_lib, version 0.6.1!": null,
-            "socket_lib, version 0.7.0!": null,
-            "socket_lib, version 0.7.1!": null,
-            "socket_lib, version 0.7.2!": null,
-            "socket_lib, version 0.8.0!": null,
-            "socket_lib, version 0.8.1!": null,
-            "socket_lib, version 0.8.2!": null,
-            "socket_lib, version 0.8.3!": null,
-            "socket_lib, version 0.8.4!": null,
-            "socket_lib, version 0.9.0!": null,
-            "socket_lib, version 0.10.0!": null,
-            "socket_lib, version 0.11.0!": null,
-            "socket_lib, version 0.11.1!": null,
-            "socket_lib, version 0.9.1!": null,
-            "socket_lib, version 0.12.0!": null,
-            "socket_lib, version 0.12.1!": null
+            "socket_lib, version 0.4.0!": "Socket网络库。",
+            "socket_lib, version 0.4.1!": "Socket网络库。",
+            "socket_lib, version 0.4.2!": "Socket网络库。",
+            "socket_lib, version 0.4.3!": "Socket网络库。",
+            "socket_lib, version 0.5.0!": "Socket网络库。",
+            "socket_lib, version 0.5.1!": "Socket网络库。",
+            "socket_lib, version 0.6.0!": "Socket网络库。",
+            "socket_lib, version 0.6.1!": "Socket网络库。",
+            "socket_lib, version 0.7.0!": "Socket网络库。",
+            "socket_lib, version 0.7.1!": "Socket网络库。",
+            "socket_lib, version 0.7.2!": "Socket网络库。",
+            "socket_lib, version 0.8.0!": "Socket网络库。",
+            "socket_lib, version 0.8.1!": "Socket网络库。",
+            "socket_lib, version 0.8.2!": "Socket网络库。",
+            "socket_lib, version 0.8.3!": "Socket网络库。",
+            "socket_lib, version 0.8.4!": "Socket网络库。",
+            "socket_lib, version 0.9.0!": "Socket网络库。",
+            "socket_lib, version 0.10.0!": "Socket网络库。",
+            "socket_lib, version 0.11.0!": "Socket网络库。",
+            "socket_lib, version 0.11.1!": "Socket网络库。",
+            "socket_lib, version 0.9.1!": "Socket网络库。",
+            "socket_lib, version 0.12.0!": "Socket网络库。",
+            "socket_lib, version 0.12.1!": "Socket网络库。"
         }
     },
     "SpaghettiExtensions": {
         "id": "SpaghettiExtensions",
         "names": {
-            "SpaghettiExtensions": null
+            "SpaghettiExtensions": "面条扩展Lite"
         },
         "descriptions": {
-            "i got bored": null
+            "i got bored": "我闲得无聊。"
         }
     },
     "TeamSeas": {
@@ -1165,49 +1165,49 @@
             "TeamSeas": null
         },
         "descriptions": {
-            "Shows teamseas stats in-game": null
+            "Shows teamseas stats in-game": "在游戏中显示TeamSeas统计数据。"
         }
     },
     "technicolour": {
         "id": "technicolour",
         "names": {
-            "Technicolour": null
+            "Technicolour": "彩虹灯光"
         },
         "descriptions": {
-            "Yes, it's colour with a U\r\n\r\nUltra-customisable rainbow lights/sabers/walls/blocks/bombs mod, originally made by Aeroluna for PC.\r\nSettings are accessible in the gameplay setup tab.\r\n\r\nPorted for the questmas trivia event.": null
+            "Yes, it's colour with a U\r\n\r\nUltra-customisable rainbow lights/sabers/walls/blocks/bombs mod, originally made by Aeroluna for PC.\r\nSettings are accessible in the gameplay setup tab.\r\n\r\nPorted for the questmas trivia event.": "高度自定义的彩虹灯光/光剑/墙壁/方块/炸弹模组。原作由Aeroluna制作。"
         }
     },
     "ThiccSaber": {
         "id": "ThiccSaber",
         "names": {
-            "Thicc Saber": null
+            "Thicc Saber": "粗光剑"
         },
         "descriptions": {
-            "A simple mod which allows you to control the dimensions of notes!": null
+            "A simple mod which allows you to control the dimensions of notes!": "一个允许你控制音符尺寸的简单模组！"
         }
     },
     "ThickSaber": {
         "id": "ThickSaber",
         "names": {
-            "Thick Saber": null
+            "Thick Saber": "粗光剑"
         },
         "descriptions": {
-            "A simple mod which allows you to control the dimensions of notes!": null
+            "A simple mod which allows you to control the dimensions of notes!": "一个允许你控制音符尺寸的简单模组！"
         }
     },
     "thinsabers": {
         "id": "thinsabers",
         "names": {
-            "ThinSabers": null
+            "ThinSabers": "细光剑"
         },
         "descriptions": {
-            "Change saber thickness without qosmetics": null
+            "Change saber thickness without qosmetics": "无需Qosmetics即可改变光剑厚度。"
         }
     },
     "tracks": {
         "id": "tracks",
         "names": {
-            "Tracks": null
+            "Tracks": "轨迹动画"
         },
         "descriptions": {
             "Animation for Noodle and Chroma. Requires CustomJSONData. Don't delete": "Noodle和Chroma的动画。依赖CustomJSONData。请勿删除。"
@@ -1216,25 +1216,25 @@
     "vent": {
         "id": "vent",
         "names": {
-            "Vent": null
+            "Vent": "逃跑按钮"
         },
         "descriptions": {
-            "Failed so hard you wanted to vent out of the game? Then here it is. (Launches amongus vr if installed)": null,
+            "Failed so hard you wanted to vent out of the game? Then here it is. (Launches amongus vr if installed)": "打到想逃出游戏？这个模组可以满足你（启动Among Us VR——如果已安装）。",
             "I swear you just vented...": null
         }
     },
     "diglett": {
         "id": "diglett",
         "names": {
-            "Diglett": null
+            "Diglett": "Diglett本地化库"
         },
         "descriptions": {
-            "library that allows you to easily add localisation for your quest mods - v1.0.0!": null,
-            "library that allows you to easily add localisation for your quest mods - v2.0.0!": null,
-            "library that allows you to easily add localisation for your quest mods - v2.0.1!": null,
-            "library that allows you to easily add localisation for your quest mods - v2.0.2!": null,
-            "library that allows you to easily add localisation for your quest mods - v2.0.3!": null,
-            "library that allows you to easily add localisation for your quest mods - v2.1.1!": null
+            "library that allows you to easily add localisation for your quest mods - v1.0.0!": "让你轻松为模组添加本地化支持的库。",
+            "library that allows you to easily add localisation for your quest mods - v2.0.0!": "让你轻松为模组添加本地化支持的库。",
+            "library that allows you to easily add localisation for your quest mods - v2.0.1!": "让你轻松为模组添加本地化支持的库。",
+            "library that allows you to easily add localisation for your quest mods - v2.0.2!": "让你轻松为模组添加本地化支持的库。",
+            "library that allows you to easily add localisation for your quest mods - v2.0.3!": "让你轻松为模组添加本地化支持的库。",
+            "library that allows you to easily add localisation for your quest mods - v2.1.1!": "让你轻松为模组添加本地化支持的库。"
         }
     },
     "ClockMod": {
@@ -1258,74 +1258,74 @@
     "PressJToPlay": {
         "id": "PressJToPlay",
         "names": {
-            "PressJToPlay": null
+            "PressJToPlay": "自定义按钮文字"
         },
         "descriptions": {
-            "PressJToPlay is a small mod that allows the user to customize the Play and Practice button text to whatever they like (except for emojis)": null
+            "PressJToPlay is a small mod that allows the user to customize the Play and Practice button text to whatever they like (except for emojis)": "一个允许自定义游戏和练习按钮文字的小模组。"
         }
     },
     "Streamer-Tools": {
         "id": "Streamer-Tools",
         "names": {
-            "Streamer Tools": null
+            "Streamer Tools": "直播工具"
         },
         "descriptions": {
-            "Allows applications to get information from the game like, currently played song.": null,
-            "Allows applications to get information from the game like, currently played song.\n\nMod Features:\n- Provide information about your game via wifi (more info: https://github.com/EnderdracheLP/streamer-tools/wiki)\n- Provide your watchers with information about your song\nby @EnderdracheLP and @ComputerElite\n\nClient features:\n- Various Overlays to add to OBS (including a overlay builder)\n- Fetching of information from your Quest\nby @ComputerElite\n\nClient Download (needed on PC): https://github.com/ComputerElite/streamer-tools-client/releases\nMod Setup video: https://www.youtube.com/watch?v=1OMHjjSi-5s": null
+            "Allows applications to get information from the game like, currently played song.": "允许外部应用获取游戏信息，如正在播放的歌曲等。",
+            "Allows applications to get information from the game like, currently played song.\n\nMod Features:\n- Provide information about your game via wifi (more info: https://github.com/EnderdracheLP/streamer-tools/wiki)\n- Provide your watchers with information about your song\nby @EnderdracheLP and @ComputerElite\n\nClient features:\n- Various Overlays to add to OBS (including a overlay builder)\n- Fetching of information from your Quest\nby @ComputerElite\n\nClient Download (needed on PC): https://github.com/ComputerElite/streamer-tools-client/releases\nMod Setup video: https://www.youtube.com/watch?v=1OMHjjSi-5s": "允许外部应用获取游戏信息，如正在播放的歌曲等。"
         }
     },
     "paper": {
         "id": "paper",
         "names": {
-            "Paper": null
+            "Paper": "Paper日志库"
         },
         "descriptions": {
-            "Logging library for mods light as paper": null
+            "Logging library for mods light as paper": "轻如纸张的模组日志库。"
         }
     },
     "breaktime": {
         "id": "breaktime",
         "names": {
-            "Breaktime": null
+            "Breaktime": "休息时间"
         },
         "descriptions": {
-            "Shows how long of a break you have in a song": null
+            "Shows how long of a break you have in a song": "显示歌曲中的休息时长。"
         }
     },
     "tinyxml2": {
         "id": "tinyxml2",
         "names": {
-            "tinyxml2": null
+            "tinyxml2": "TinyXML2"
         },
         "descriptions": {
-            "tinyxml2": null
+            "tinyxml2": "TinyXML2库。"
         }
     },
     "AniPic": {
         "id": "AniPic",
         "names": {
-            "AniPic": null
+            "AniPic": "动物图片"
         },
         "descriptions": {
-            "Ever get anger that you cant beat a map? Then look at animal pictures until you feel calm :)": null
+            "Ever get anger that you cant beat a map? Then look at animal pictures until you feel calm :)": "打不过图很生气？看看动物图片冷静一下 :)。"
         }
     },
     "anytweaks": {
         "id": "anytweaks",
         "names": {
-            "AnyTweaks": null
+            "AnyTweaks": "AnyTweaks优化"
         },
         "descriptions": {
-            "Level up your Beat Saber experience on Quest! AnyTweaks provides various tweaks to help boost your experience on Quest, such as Bloom, FPS Counter and more.": null
+            "Level up your Beat Saber experience on Quest! AnyTweaks provides various tweaks to help boost your experience on Quest, such as Bloom, FPS Counter and more.": "全面提升游戏中的节奏光剑体验！提供各种优化调整。"
         }
     },
     "CustomMainMenu": {
         "id": "CustomMainMenu",
         "names": {
-            "Custom Main Menu": null
+            "Custom Main Menu": "自定义主菜单"
         },
         "descriptions": {
-            "Customize the text on the main menu of Beat Saber": null
+            "Customize the text on the main menu of Beat Saber": "自定义节奏光剑主菜单上的文字。"
         }
     },
     "datakeeper": {
@@ -1340,10 +1340,10 @@
     "environments": {
         "id": "environments",
         "names": {
-            "StopForgettingMyEnvironments": null
+            "StopForgettingMyEnvironments": "环境记忆"
         },
         "descriptions": {
-            "Makes the game stop forgetting it if you have an environment override enabled.": null
+            "Makes the game stop forgetting it if you have an environment override enabled.": "让游戏记住环境覆盖设置。"
         }
     },
     "FasterScroll": {
@@ -1361,10 +1361,10 @@
     "ImageCoverExpander": {
         "id": "ImageCoverExpander",
         "names": {
-            "ImageCoverExpander": null
+            "ImageCoverExpander": "封面扩展"
         },
         "descriptions": {
-            "Expands the Cover Image to the full right side of the song select menu!": null
+            "Expands the Cover Image to the full right side of the song select menu!": "将歌曲封面图片扩展到选歌界面的整个右侧。"
         }
     },
     "jdfixer": {
@@ -1373,25 +1373,25 @@
             "JDFixer": "跳跃距离修复"
         },
         "descriptions": {
-            "Configure your Jump Distance, Speed, and more with ultra precision!": "更精准地设置Jump Distance、速度等"
+            "Configure your Jump Distance, Speed, and more with ultra precision!": "更精准地设置Jump Distance、速度等。"
         }
     },
     "MultiplayerCore": {
         "id": "MultiplayerCore",
         "names": {
-            "MultiplayerCore": null
+            "MultiplayerCore": "多人游戏核心"
         },
         "descriptions": {
-            "Port of MultiplayerCore, the PC mod that adds features to BeatTogether Multiplayer.": null
+            "Port of MultiplayerCore, the PC mod that adds features to BeatTogether Multiplayer.": "移植自PC模组MultiplayerCore，为BeatTogether多人游戏增加更多功能。"
         }
     },
     "QustomBanners": {
         "id": "QustomBanners",
         "names": {
-            "Qustom Banners": null
+            "Qustom Banners": "自定义横幅"
         },
         "descriptions": {
-            "adds banners to your game!": null
+            "adds banners to your game!": "在游戏中添加横幅！"
         }
     },
     "transitions": {
@@ -1406,39 +1406,39 @@
     "acculight": {
         "id": "acculight",
         "names": {
-            "Acculight": null
+            "Acculight": "精准灯光"
         },
         "descriptions": {
-            "changes the lighting on the result screen depending on the accuracy gained in the song": null
+            "changes the lighting on the result screen depending on the accuracy gained in the song": "根据歌曲中的准度改变结果界面的灯光。"
         }
     },
     "BeatmapPlayCount": {
         "id": "BeatmapPlayCount",
         "names": {
-            "Simple Beatmap Play Count": null
+            "Simple Beatmap Play Count": "谱面游玩计数"
         },
         "descriptions": {
             "null": null,
-            "Keep track of how many times you've played a song": null
+            "Keep track of how many times you've played a song": "记录并显示每个谱面的游玩次数。"
         }
     },
     "BroYouReallyPaused": {
         "id": "BroYouReallyPaused",
         "names": {
-            "Bro You Really Paused": null
+            "Bro You Really Paused": "你居然暂停了"
         },
         "descriptions": {
-            "Damn you really paused cringe": null,
-            "Damn you really paused? cringe. This Mod creates a customiseable text underneath the pause menu! Can be used for: Bullying yourself for pausing, Funny stuff and reminders to do the dishes.": null
+            "Damn you really paused cringe": "你居然暂停了，太逊了。",
+            "Damn you really paused? cringe. This Mod creates a customiseable text underneath the pause menu! Can be used for: Bullying yourself for pausing, Funny stuff and reminders to do the dishes.": "你居然暂停了，太逊了。"
         }
     },
     "bs-utils": {
         "id": "bs-utils",
         "names": {
-            "bs-utils": null
+            "bs-utils": "BS工具库"
         },
         "descriptions": {
-            "Utils library": null
+            "Utils library": "通用工具库。"
         }
     },
     "bsml": {
@@ -1453,11 +1453,11 @@
     "burnmarktweaks": {
         "id": "burnmarktweaks",
         "names": {
-            "Burn Mark Tweaks": null
+            "Burn Mark Tweaks": "燃烧痕迹增强"
         },
         "descriptions": {
-            "#{description}": null,
-            "Burn mark Tweaker": null
+            "#{description}": "燃烧痕迹调整工具。",
+            "Burn mark Tweaker": "燃烧痕迹调整工具。"
         }
     },
     "crashreporter": {
@@ -1472,25 +1472,25 @@
     "custom-pillows": {
         "id": "custom-pillows",
         "names": {
-            "Custom Pillows": null
+            "Custom Pillows": "自定义枕头"
         },
         "descriptions": {
-            "Custom Pillow mod for Quest\nOriginal by Toni Macaroni for PC": null
+            "Custom Pillow mod for Quest\nOriginal by Toni Macaroni for PC": "自定义枕头模组。原作由Toni Macaroni制作。"
         }
     },
     "Difficulty-Saver": {
         "id": "Difficulty-Saver",
         "names": {
-            "Difficulty Saver": null
+            "Difficulty Saver": "难度保存"
         },
         "descriptions": {
-            "Once upon a time someone thought of a great mod idea. That happened to be male (not me). I, the great KRAK, went on the quest to fetch all the knowledge needed to create a mind blowing mod which saves your difficulty after changing it in the blink of an eye.": null
+            "Once upon a time someone thought of a great mod idea. That happened to be male (not me). I, the great KRAK, went on the quest to fetch all the knowledge needed to create a mind blowing mod which saves your difficulty after changing it in the blink of an eye.": "某个天才曾想到一个好主意。我——伟大的KRAK——把它实现了。"
         }
     },
     "lapiz": {
         "id": "lapiz",
         "names": {
-            "Lapiz": null
+            "Lapiz": "Lapiz库"
         },
         "descriptions": {
             "Lapiz makes modders' lives easier by exposing utilities to them cleanly. This mod does nothing on it's own.": null,
@@ -1500,33 +1500,33 @@
     "morebycore": {
         "id": "morebycore",
         "names": {
-            "More By Core": null
+            "More By Core": "MoreByCore增强"
         },
         "descriptions": {
-            "More By Core, version 1.1.0 for 1.24! Lets you customize BeatSaber with added stuff!": null,
-            "More By Core, version 1.2.0 for 1.24! Lets you customize BeatSaber with added stuff!": null,
-            "More By Core, version 1.2.1 for 1.24! Lets you customize BeatSaber with added stuff!": null,
-            "More By Core, for 1.24.0! Lets you customize BeatSaber with added stuff!": null,
-            "More By Core, for 1.25.1! Lets you customize BeatSaber with added stuff!": null
+            "More By Core, version 1.1.0 for 1.24! Lets you customize BeatSaber with added stuff!": "More By Core，让你自定义BeatSaber，增加更多功能！",
+            "More By Core, version 1.2.0 for 1.24! Lets you customize BeatSaber with added stuff!": "More By Core，让你自定义BeatSaber，增加更多功能！",
+            "More By Core, version 1.2.1 for 1.24! Lets you customize BeatSaber with added stuff!": "More By Core，让你自定义BeatSaber，增加更多功能！",
+            "More By Core, for 1.24.0! Lets you customize BeatSaber with added stuff!": "More By Core，让你自定义BeatSaber，增加更多功能！",
+            "More By Core, for 1.25.1! Lets you customize BeatSaber with added stuff!": "More By Core，让你自定义BeatSaber，增加更多功能！"
         }
     },
     "NoParticles": {
         "id": "NoParticles",
         "names": {
-            "NoParticles": null
+            "NoParticles": "无粒子效果"
         },
         "descriptions": {
-            "Allows you to disable note/bomb cut particles": null,
-            "Allows you to disable various particles throughout the game": null
+            "Allows you to disable note/bomb cut particles": "允许禁用音符/炸弹切割粒子效果。",
+            "Allows you to disable various particles throughout the game": "允许禁用音符/炸弹切割粒子效果。"
         }
     },
     "noplay": {
         "id": "noplay",
         "names": {
-            "No Play": null
+            "No Play": "禁止游玩"
         },
         "descriptions": {
-            "This mod disables the play button on toggle": null
+            "This mod disables the play button on toggle": "通过开关禁用游玩按钮。"
         }
     },
     "Nya": {
@@ -1541,10 +1541,10 @@
     "peripheralhud": {
         "id": "peripheralhud",
         "names": {
-            "PeripheralHUD": null
+            "PeripheralHUD": "周边HUD"
         },
         "descriptions": {
-            "Move your in-game HUD into your peripheral vision, allowing for easy at-a-glance viewing of your combo, score, etc!": null
+            "Move your in-game HUD into your peripheral vision, allowing for easy at-a-glance viewing of your combo, score, etc!": "将游戏HUD移到周边视野中，方便快速查看连击和分数等信息。"
         }
     },
     "playlistcore": {
@@ -1559,10 +1559,10 @@
     "PromotionYeeter": {
         "id": "PromotionYeeter",
         "names": {
-            "Promotion Yeeter": null
+            "Promotion Yeeter": "去除推广"
         },
         "descriptions": {
-            "Yeets the Music Pack Promotion Button/Banner from the main menu": null
+            "Yeets the Music Pack Promotion Button/Banner from the main menu": "从主菜单移除音乐包推广按钮。"
         }
     },
     "qosmetics-core": {
@@ -1577,56 +1577,56 @@
     "qosmetics-notes": {
         "id": "qosmetics-notes",
         "names": {
-            "Qosmetics Cyoobs": null
+            "Qosmetics Cyoobs": "Qosmetics方块(Cyoobs)"
         },
         "descriptions": {
-            "Qosmetics module that adds Cyoob capabilities": null
+            "Qosmetics module that adds Cyoob capabilities": "Qosmetics的方块(Cyoobs)模块。"
         }
     },
     "qosmetics-sabers": {
         "id": "qosmetics-sabers",
         "names": {
-            "Qosmetics Whackers": null
+            "Qosmetics Whackers": "Qosmetics光剑(Whackers)"
         },
         "descriptions": {
-            "Qosmetics module that adds Whacker capabilities": null
+            "Qosmetics module that adds Whacker capabilities": "Qosmetics的光剑(Whackers)模块。"
         }
     },
     "qosmetics-walls": {
         "id": "qosmetics-walls",
         "names": {
-            "Qosmetics Boxes": null
+            "Qosmetics Boxes": "Qosmetics墙壁(Boxes)"
         },
         "descriptions": {
-            "Qosmetics module that adds Box capabilities": null
+            "Qosmetics module that adds Box capabilities": "Qosmetics的墙壁(Boxes)模块。"
         }
     },
     "RainbowQuest": {
         "id": "RainbowQuest",
         "names": {
-            "Rainbow Quest": null
+            "Rainbow Quest": "彩虹方块"
         },
         "descriptions": {
-            "Makes blocks and obstacles rainbow :D. By: Unifox": null
+            "Makes blocks and obstacles rainbow :D. By: Unifox": "让方块和障碍物变成彩虹色 :D 作者：Unifox。"
         }
     },
     "settings": {
         "id": "settings",
         "names": {
-            "StopForgettingMySettings": null
+            "StopForgettingMySettings": "设置记忆"
         },
         "descriptions": {
-            "Makes the game remember override environment settings and boost colors.": null,
+            "Makes the game remember override environment settings and boost colors.": "让游戏记住环境覆盖和加速颜色的设置。",
             "Makes the game remember override environment settings.": null
         }
     },
     "ShortSaber": {
         "id": "ShortSaber",
         "names": {
-            "ShortSaber": null
+            "ShortSaber": "短光剑"
         },
         "descriptions": {
-            "Change the length of the saber": null
+            "Change the length of the saber": "改变光剑长度。"
         }
     },
     "SmallQubes": {
@@ -1643,19 +1643,19 @@
     "thiccMod": {
         "id": "thiccMod",
         "names": {
-            "Thicc Mod": null
+            "Thicc Mod": "巨大方块"
         },
         "descriptions": {
-            "Have you ever wanted to play beat saber, but the bloqs were the size of your mother? Well look no further! Thicc Mod has got you covered!": null
+            "Have you ever wanted to play beat saber, but the bloqs were the size of your mother? Well look no further! Thicc Mod has got you covered!": "觉得方块太小？这个模组能让方块变得像你妈一样大！"
         }
     },
     "adblock": {
         "id": "adblock",
         "names": {
-            "Adblock": null
+            "Adblock": "广告屏蔽"
         },
         "descriptions": {
-            "???": null
+            "???": "移除游戏内的官方DLC推广瓷砖。"
         }
     },
     "BetterSongSearch": {
@@ -1670,28 +1670,28 @@
     "BSNightcoreQuest": {
         "id": "BSNightcoreQuest",
         "names": {
-            "BSNightcoreQuest": null
+            "BSNightcoreQuest": "夜核变速"
         },
         "descriptions": {
-            "Removes pitch compensation to make songs go nightcore on different speed": null
+            "Removes pitch compensation to make songs go nightcore on different speed": "移除音高校正，让歌曲在不同速度下变成夜核风格。"
         }
     },
     "crashinfo": {
         "id": "crashinfo",
         "names": {
-            "CrashInfo": null
+            "CrashInfo": "崩溃信息"
         },
         "descriptions": {
-            "Shows backtraces for recent crashes ingame if crash reporter uploads crashes. Mainly intended for those who dont know how to read logs.": null
+            "Shows backtraces for recent crashes ingame if crash reporter uploads crashes. Mainly intended for those who dont know how to read logs.": "在游戏中显示最近崩溃的回溯信息。主要面向不知道怎么看日志的用户。"
         }
     },
     "FailButton": {
         "id": "FailButton",
         "names": {
-            "Fail Button": null
+            "Fail Button": "失败按钮"
         },
         "descriptions": {
-            "Adds a button that forces a fail": null
+            "Adds a button that forces a fail": "增加一个强制失败的按钮。"
         }
     },
     "hollywood": {
@@ -1701,25 +1701,25 @@
         },
         "descriptions": {
             "hollywood, version 0.1.2!": null,
-            "Record videos on your quest!": "在Quest上录制视频！"
+            "Record videos on your quest!": "在游戏中录制视频！"
         }
     },
     "ImageFactory": {
         "id": "ImageFactory",
         "names": {
-            "ImageFactory": null
+            "ImageFactory": "图片工厂"
         },
         "descriptions": {
-            "Place and customize images throughout your game.": null
+            "Place and customize images throughout your game.": "在游戏中放置和自定义图片。"
         }
     },
     "invertedarrows": {
         "id": "invertedarrows",
         "names": {
-            "InvertedArrows": null
+            "InvertedArrows": "反向箭头"
         },
         "descriptions": {
-            "Customize all arrow directions on a beatmap": null
+            "Customize all arrow directions on a beatmap": "自定义谱面中所有箭头的方向。"
         }
     },
     "multiplayer-core": {
@@ -1735,142 +1735,142 @@
     "noplaybeatsaber": {
         "id": "noplaybeatsaber",
         "names": {
-            "No Play Beat Saber": null
+            "No Play Beat Saber": "禁止游玩节奏光剑"
         },
         "descriptions": {
-            "Literally does not allow you to play beat saber. Why do you even want this?": null,
-            "This literally does not allow you to play beat saber. Why do you even want this?": null
+            "Literally does not allow you to play beat saber. Why do you even want this?": "字面意义上不让你玩节奏光剑。",
+            "This literally does not allow you to play beat saber. Why do you even want this?": "字面意义上不让你玩节奏光剑。"
         }
     },
     "PauseRemapper": {
         "id": "PauseRemapper",
         "names": {
-            "Pause Remapper": null
+            "Pause Remapper": "暂停键重映射"
         },
         "descriptions": {
-            "Allows the user to change which button pauses a map": null,
-            "Allows the user to change which buttons pause the game!": null,
-            "Allows the user to change which buttons pause and resume the game!": null
+            "Allows the user to change which button pauses a map": "允许用户更改暂停游戏的按键。",
+            "Allows the user to change which buttons pause the game!": "允许用户更改暂停游戏的按键。",
+            "Allows the user to change which buttons pause and resume the game!": "允许用户更改暂停游戏的按键。"
         }
     },
     "PitchBlaq": {
         "id": "PitchBlaq",
         "names": {
-            "PitchBlaq": null
+            "PitchBlaq": "音高调整"
         },
         "descriptions": {
-            "null": null,
-            "Simple plugin that can completely disable lights (events) and spectrogram (if the environment has one). Config menu include light and spectrogram.": null
+            "null": "调整游戏音高。",
+            "Simple plugin that can completely disable lights (events) and spectrogram (if the environment has one). Config menu include light and spectrogram.": "调整游戏音高。"
         }
     },
     "pythonlib": {
         "id": "pythonlib",
         "names": {
-            "PythonLib": null
+            "PythonLib": "Python运行时"
         },
         "descriptions": {
-            "Run Python at Runtime": null
+            "Run Python at Runtime": "在游戏运行时执行Python脚本。"
         }
     },
     "questrpc": {
         "id": "questrpc",
         "names": {
-            "QuestDiscordRPC": null
+            "QuestDiscordRPC": "Discord状态"
         },
         "descriptions": {
-            "Quest Discord RPC to show that your playing discord.": null
+            "Quest Discord RPC to show that your playing discord.": "在Discord上显示你的节奏光剑游戏状态。"
         }
     },
     "ScoreQolour": {
         "id": "ScoreQolour",
         "names": {
-            "ScoreQolour": null
+            "ScoreQolour": "分数染色"
         },
         "descriptions": {
-            "Changes your note, bomb and obstacle colours based on your score": null
+            "Changes your note, bomb and obstacle colours based on your score": "根据你的分数改变音符、炸弹和墙壁的颜色。"
         }
     },
     "SessionQombo": {
         "id": "SessionQombo",
         "names": {
-            "SessionQombo": null
+            "SessionQombo": "连击持久化"
         },
         "descriptions": {
-            "A mod for beat saber that makes the combo counter persist across level load, like in the game `In The Groove`": null
+            "A mod for beat saber that makes the combo counter persist across level load, like in the game `In The Groove`": "让连击计数在曲目间保持持续，就像《In The Groove》游戏那样。"
         }
     },
     "SpeecilTweaks": {
         "id": "SpeecilTweaks",
         "names": {
-            "Speecil Tweaks": null
+            "Speecil Tweaks": "Speecil小调整"
         },
         "descriptions": {
-            "Cool little tweaks i think are pretty cool such as: Results menu tweaks, Play button tweaks, and more": null,
-            "This mod brings a bunch of tweaks to the table, such as: Menu Tweaks, Gameplay Tweaks, Results Tweaks and more!": null,
-            "This mod brings a bunch of tweaks to the table, such as: Menu Tweaks, Gameplay Tweaks, Quality of Life Tweaks and more!": null
+            "Cool little tweaks i think are pretty cool such as: Results menu tweaks, Play button tweaks, and more": "一些有趣的小调整：结算界面优化、游玩按钮调整等。",
+            "This mod brings a bunch of tweaks to the table, such as: Menu Tweaks, Gameplay Tweaks, Results Tweaks and more!": "一些有趣的小调整：结算界面优化、游玩按钮调整等。",
+            "This mod brings a bunch of tweaks to the table, such as: Menu Tweaks, Gameplay Tweaks, Quality of Life Tweaks and more!": "一些有趣的小调整：结算界面优化、游玩按钮调整等。"
         }
     },
     "toomanytweaks": {
         "id": "toomanytweaks",
         "names": {
-            "TooManyTweaks": null
+            "TooManyTweaks": "太多设置"
         },
         "descriptions": {
-            "Adds many togglable tweaks and options to tailor the game to your desire.": null
+            "Adds many togglable tweaks and options to tailor the game to your desire.": "提供大量可开关的调整选项，让你随心定制游戏体验。"
         }
     },
     "trick-saber": {
         "id": "trick-saber",
         "names": {
-            "Trick Saber": null
+            "Trick Saber": "花式光剑"
         },
         "descriptions": {
-            "Mod that lets you throw and spin your sabers every which way you want!": null
+            "Mod that lets you throw and spin your sabers every which way you want!": "让你随心所欲地旋转和抛掷光剑的模组。"
         }
     },
     "accmiss": {
         "id": "accmiss",
         "names": {
-            "AccMiss": null
+            "AccMiss": "精准失误"
         },
         "descriptions": {
-            "Miss when you acc bad": null
+            "Miss when you acc bad": "准度低时自动miss。"
         }
     },
     "bsml-lite": {
         "id": "bsml-lite",
         "names": {
-            "bsml-lite": null
+            "bsml-lite": "BSML-Lite"
         },
         "descriptions": {
-            "Library that provides access to BSML items through programming instead of bsml files": null
+            "Library that provides access to BSML items through programming instead of bsml files": "提供无需BSML文件即可通过编程访问BSML元素的库。"
         }
     },
     "leaderboardcore": {
         "id": "leaderboardcore",
         "names": {
-            "LeaderboardCore": null
+            "LeaderboardCore": "排行榜核心"
         },
         "descriptions": {
-            "Adds the capability to add custom leaderboards to Beat Saber with relative ease!": null
+            "Adds the capability to add custom leaderboards to Beat Saber with relative ease!": "轻松为节奏光剑添加自定义排行榜的能力。"
         }
     },
     "overswing": {
         "id": "overswing",
         "names": {
-            "Overswing": null
+            "Overswing": "过挥检测"
         },
         "descriptions": {
-            "Library to find overswings": null
+            "Library to find overswings": "检测过挥的工具库。"
         }
     },
     "practiceaddons": {
         "id": "practiceaddons",
         "names": {
-            "Practice Addons": null
+            "Practice Addons": "练习增强"
         },
         "descriptions": {
-            "#{description}": null
+            "#{description}": "练习模式增强工具。"
         }
     },
     "qonsistentsabercolors": {
@@ -1885,19 +1885,19 @@
     "sabertrailer": {
         "id": "sabertrailer",
         "names": {
-            "SaberTrailer": null
+            "SaberTrailer": "光剑尾迹"
         },
         "descriptions": {
-            "Make simple but powerful changes to your saber trail": null
+            "Make simple but powerful changes to your saber trail": "对光剑尾迹做出简单但强大的调整。"
         }
     },
     "song-details": {
         "id": "song-details",
         "names": {
-            "SongDetails": null
+            "SongDetails": "谱面详细信息"
         },
         "descriptions": {
-            "Library that provides details about songs from BeatSaver": null
+            "Library that provides details about songs from BeatSaver": "提供BeatSaver谱面详细信息的库。"
         }
     },
     "songcore": {
@@ -1916,7 +1916,7 @@
             "Bomb Qolorer": "炸弹颜色"
         },
         "descriptions": {
-            "Allows you to override the default bomb color": "可以让你覆盖默认的炸弹颜色"
+            "Allows you to override the default bomb color": "可以让你覆盖默认的炸弹颜色。"
         }
     },
     "camera-utils": {
@@ -1932,7 +1932,7 @@
     "chatplex-sdk-bs": {
         "id": "chatplex-sdk-bs",
         "names": {
-            "ChatPlexSDK-BS": null
+            "ChatPlexSDK-BS": "ChatPlex SDK"
         },
         "descriptions": {
             "ChatPlex BeatSaber modding SDK (Dependence for other mods)": "ChatPlex的节奏光剑模组SDK（被其它模组依赖）。",
@@ -1945,18 +1945,18 @@
             "FingerSaber": "指尖光剑"
         },
         "descriptions": {
-            "Beat Saber At Your Finger Tips. @drumtool#4435 @NoneThing#7502": null,
-            "Beat Saber At Your Finger Tips. @drumtool": null,
-            "Beat Saber At Your Finger Tips. Discord @drumtool": "使用指尖游玩节奏光剑。联系Discord @drumtool"
+            "Beat Saber At Your Finger Tips. @drumtool#4435 @NoneThing#7502": "使用指尖游玩节奏光剑。",
+            "Beat Saber At Your Finger Tips. @drumtool": "使用指尖游玩节奏光剑。",
+            "Beat Saber At Your Finger Tips. Discord @drumtool": "使用指尖游玩节奏光剑。联系Discord @drumtool。"
         }
     },
     "gaysabers": {
         "id": "gaysabers",
         "names": {
-            "GaySabers": null
+            "GaySabers": "彩虹光剑"
         },
         "descriptions": {
-            "Makes your sabers gay (i mean glow in rainbow colors)": "让光剑Gay起来（也就是发彩虹光）"
+            "Makes your sabers gay (i mean glow in rainbow colors)": "让光剑Gay起来（也就是发彩虹光）。"
         }
     },
     "Puro": {
@@ -1965,7 +1965,7 @@
             "Puro": null
         },
         "descriptions": {
-            "A fluffy latex monster.": null
+            "A fluffy latex monster.": "毛绒绒的黑色怪物……"
         }
     },
     "qbeatsaberplus-gametweaker": {
@@ -1974,7 +1974,7 @@
             "QBeatSaberPlus-GameTweaker": "QBeatSaberPlus-游戏增强"
         },
         "descriptions": {
-            "Feel good!": "感觉不错！"
+            "Feel good!": "提供各种好用的游戏增强功能。"
         }
     },
     "qbeatsaberplus-menumusic": {
@@ -1983,7 +1983,7 @@
             "QBeatSaberPlus-MenuMusic": "QBeatSaberPlus-菜单音乐"
         },
         "descriptions": {
-            "Feel good!": "感觉不错！"
+            "Feel good!": "在菜单中播放自定义音乐。"
         }
     },
     "qbeatsaberplus-notetweaker": {
@@ -1992,7 +1992,7 @@
             "QBeatSaberPlus-NoteTweaker": "QBeatSaberPlus-音符变更"
         },
         "descriptions": {
-            "Feel good!": "感觉不错！"
+            "Feel good!": "自定义音符的外观和行为。"
         }
     },
     "RecentlyPlayed": {
@@ -2007,20 +2007,20 @@
     "safestorage": {
         "id": "safestorage",
         "names": {
-            "SafeStorage": null
+            "SafeStorage": "安全存储"
         },
         "descriptions": {
-            "Allows for safe storage and encryption of strings to prevent users from accidentally doxxing themselfs": null,
+            "Allows for safe storage and encryption of strings to prevent users from accidentally doxxing themselfs": "提供字符串的安全存储和加密，防止意外泄露个人信息。",
             "Allows for safe storage and encryption of strings to prevent users from accidentally doxxing themselves": null
         }
     },
     "simply-max-fps": {
         "id": "simply-max-fps",
         "names": {
-            "SimplyMaxFPS": null
+            "SimplyMaxFPS": "最高帧率"
         },
         "descriptions": {
-            "Bump up FPS. No fuss, just maximum framage.": null
+            "Bump up FPS. No fuss, just maximum framage.": "提升帧率。简单粗暴，最大帧数。"
         }
     },
     "songchartvisualizer": {
@@ -2029,40 +2029,40 @@
             "SongChartVisualizer": "谱面图表可视化"
         },
         "descriptions": {
-            "null": null
+            "null": "显示谱面难度图表。"
         }
     },
     "songinfoplus": {
         "id": "songinfoplus",
         "names": {
-            "SongInfoPlus": null
+            "SongInfoPlus": "歌曲信息增强"
         },
         "descriptions": {
-            "View extra details about a map in Beat Saber!": null
+            "View extra details about a map in Beat Saber!": "查看谱面的更多信息。"
         }
     },
     "songrankedbadge": {
         "id": "songrankedbadge",
         "names": {
-            "SongRankedBadge": null
+            "SongRankedBadge": "排名标识"
         },
         "descriptions": {
-            "null": null
+            "null": "显示谱面排名标识。"
         }
     },
     "thinsaberui": {
         "id": "thinsaberui",
         "names": {
-            "ThinSaberUI": null
+            "ThinSaberUI": "细光剑UI"
         },
         "descriptions": {
-            "A frontend for the mod, ThinSaberCore": null
+            "A frontend for the mod, ThinSaberCore": "ThinSaberCore的前端界面。"
         }
     },
     "TwitchSongReQuest": {
         "id": "TwitchSongReQuest",
         "names": {
-            "TwitchSongReQuest": null
+            "TwitchSongReQuest": "Twitch点歌"
         },
         "descriptions": {
             "Let your Twitch viewers suggest maps": null,
@@ -2072,19 +2072,19 @@
     "vrm-qavatars": {
         "id": "vrm-qavatars",
         "names": {
-            "VRM Qavatars": null
+            "VRM Qavatars": "VRM虚拟形象"
         },
         "descriptions": {
-            "A VRM based Custom Avatar mod for Beat Saber": null
+            "A VRM based Custom Avatar mod for Beat Saber": "基于VRM格式的自定义虚拟形象模组。"
         }
     },
     "weebsaber": {
         "id": "weebsaber",
         "names": {
-            "Weeb Saber": null
+            "Weeb Saber": "二次元Saber"
         },
         "descriptions": {
-            "Webbyfies your Beat Saber": null,
+            "Webbyfies your Beat Saber": "给你的节奏光剑加点二次元风味。",
             "Weeb-ifies your Beat Saber": null
         }
     },
@@ -2094,7 +2094,7 @@
             "BeatSaverVoting": "BeatSaver投票"
         },
         "descriptions": {
-            "Quest mod to allow users to vote on beatsaver": "可以在BeatSaver投票的一个Quest模组。"
+            "Quest mod to allow users to vote on beatsaver": "可以在BeatSaver投票的一个模组。"
         }
     },
     "bs-events": {
@@ -2121,29 +2121,29 @@
             "GraphicsTweaks": "图形变更"
         },
         "descriptions": {
-            "Mod to unlock pc graphics settings on quest beat saber": "在Quest游戏上解锁PC的图形设置。"
+            "Mod to unlock pc graphics settings on quest beat saber": "在游戏上解锁PC的图形设置。"
         }
     },
     "haptic-revert": {
         "id": "haptic-revert",
         "names": {
-            "Haptic Revert": null
+            "Haptic Revert": "触感还原"
         },
         "descriptions": {
-            "Reverts haptics to pre-1.35 behavior": null
+            "Reverts haptics to pre-1.35 behavior": "将触觉反馈恢复到1.35版本之前的行为。"
         }
     },
     "HeartBeatLanReceiver": {
         "id": "HeartBeatLanReceiver",
         "names": {
             "HeartBeatLanReceiver": null,
-            "HeartBeatQuest": "Quest心率显示"
+            "HeartBeatQuest": "心率显示"
         },
         "descriptions": {
             "Receive and display heart rate data from an external apk. The apk can be installed in quest headset itself or an android device via local network.": null,
             "Receive and display heart rate data. Need patch the game with bluetooth permission or install an external apk.": null,
-            "This mod displays and records your heart rate in the quest game. Supports multiple data sources including HypeRate, Bluetooth and OSC. Bluetooth permition patch required if you use it.": "在Quest游戏中显示、记录你的心率。支持多种数据源，包括HypeRate、蓝牙、OSC。如要使用蓝牙，则需要蓝牙权限。",
-            "This mod displays and records your heart rate in the quest game. Supports multiple data sources including Bluetooth, HypeRate, Pulsoid and OSC. Bluetooth permition patch required if you use it.": "在Quest游戏上显示并录制心率。支持多种数据源，包括蓝牙、HypeRate、Pulsoid以及OSC。蓝牙数据源需要蓝牙权限。",
+            "This mod displays and records your heart rate in the quest game. Supports multiple data sources including HypeRate, Bluetooth and OSC. Bluetooth permition patch required if you use it.": "在游戏中显示、记录你的心率。支持多种数据源，包括HypeRate、蓝牙、OSC。如要使用蓝牙，则需要蓝牙权限。",
+            "This mod displays and records your heart rate in the quest game. Supports multiple data sources including Bluetooth, HypeRate, Pulsoid and OSC. Bluetooth permition patch required if you use it.": "在游戏上显示并录制心率。支持多种数据源，包括蓝牙、HypeRate、Pulsoid以及OSC。蓝牙数据源需要蓝牙权限。",
             "This mod displays your heart rate in the quest game. Supported multiple data sources and Bluetooth data source requires a permission patch via ModsBeforeFriday.": null
         }
     },
@@ -2169,7 +2169,7 @@
     "paperlog_scotland2": {
         "id": "paperlog_scotland2",
         "names": {
-            "Paperlog Scotland2": null
+            "Paperlog Scotland2": "Paperlog(Scotland2)"
         },
         "descriptions": {
             "Paperlog Bootstrapper for Scotland2 modloader": "这是用于Scotland2模组加载器的Paperlog引导工具。"
@@ -2182,7 +2182,7 @@
         },
         "descriptions": {
             "Adds a in-game playlist downloader, similar to MorePlaylists on PC. Supports AccSaber, BeatSaver, BeatLeader, and Hitbloq.": null,
-            "Download playlists from websites directly in game": "在游戏中直接下载网页上的歌单"
+            "Download playlists from websites directly in game": "在游戏中直接下载网页上的歌单。"
         }
     },
     "unicode": {
@@ -2206,10 +2206,10 @@
     "BetterHaptics": {
         "id": "BetterHaptics",
         "names": {
-            "BetterHaptics": null
+            "BetterHaptics": "更好的触感"
         },
         "descriptions": {
-            "Reverts haptic feedback changes without breaking arc and chain notes.": null
+            "Reverts haptic feedback changes without breaking arc and chain notes.": "恢复触觉反馈到旧版效果，同时不影响弧线和滑条音符。"
         }
     },
     "bsdc": {
@@ -2263,7 +2263,7 @@
     "iforgor": {
         "id": "iforgor",
         "names": {
-            "IForgor 💀": "我忘了（"
+            "IForgor 💀": "我忘了"
         },
         "descriptions": {
             "Shows the direction of the last blocks and the angle of your sabers before you paused": "显示暂停之前最后一个方块的方向及光剑角度。"
@@ -2290,7 +2290,7 @@
     "qounters++": {
         "id": "qounters++",
         "names": {
-            "Qounters++": "Quest计数器++"
+            "Qounters++": "计数器++"
         },
         "descriptions": {
             "Add endlessly customizable counters to your ingame UI!": "为你的游戏UI添加无限可能的自定义计数器！"
@@ -2317,10 +2317,10 @@
     "selfcompete": {
         "id": "selfcompete",
         "names": {
-            "SelfCompete": null
+            "SelfCompete": "自我竞速"
         },
         "descriptions": {
-            "Displays a ranking of how you're doing on the map you're playing compared to all other times you played that map.": null
+            "Displays a ranking of how you're doing on the map you're playing compared to all other times you played that map.": "显示当前谱面与你所有历史成绩的排名对比。"
         }
     },
     "simplesabers": {
@@ -2350,13 +2350,13 @@
         "descriptions": {
             "Adds more configurability to hitsounds, and fixes several base game bugs to make them more reliable and consistent": null,
             "Adds a slider to change default cubes size": null,
-            "Mod that adds more configurability to hitsounds, and fixes several base game bugs": "增加更多打击音效的设置选项，还修复了一些游戏bug"
+            "Mod that adds more configurability to hitsounds, and fixes several base game bugs": "增加更多打击音效的设置选项，还修复了一些游戏bug。"
         }
     },
     "metacore": {
         "id": "metacore",
         "names": {
-            "MetaCore": null
+            "MetaCore": "MetaCore库"
         },
         "descriptions": {
             "Provides way too many utilities for mod developers": "为其它模组的开发者提供好多好多实用的东西。"
@@ -2365,7 +2365,7 @@
     "paper2_scotland2": {
         "id": "paper2_scotland2",
         "names": {
-            "Paperlog Scotland2": null
+            "Paperlog Scotland2": "Paperlog(Scotland2)"
         },
         "descriptions": {
             "Paperlog Bootstrapper for Scotland2 modloader": "这是用于Scotland2模组加载器的Paperlog引导工具。"
@@ -2383,17 +2383,17 @@
     "tricksaberlite": {
         "id": "tricksaberlite",
         "names": {
-            "TrickSaber Lite": null
+            "TrickSaber Lite": "花式光剑Lite"
         },
         "descriptions": {
-            "This mod is not that stable like it seems, improvements will be rolling out soon!\nPerform spins and throws with your sabers!": null
+            "This mod is not that stable like it seems, improvements will be rolling out soon!\nPerform spins and throws with your sabers!": "花式光剑的精简版。目前可能不太稳定，改进将持续推出。可以旋转和抛掷光剑。"
         }
     },
     "bsl": {
         "id": "bsl",
         "names": {
             "Better Song List": "更好的谱面列表",
-            "Improvement upon SongBrowser with similiar functionality": "改进的SongBrowser模组，提供类似功能。"
+            "Improvement upon SongBrowser with similiar functionality": "改进的SongBrowser模组，提供类似功能"
         },
         "descriptions": {
             "Adds Various improvements to the Basegame Map list like Filters, a persisted state and much more": null,
@@ -2425,16 +2425,16 @@
             "QBeatSaberPlus-Multiplayer": "QBeatSaberPlus-多人游戏"
         },
         "descriptions": {
-            "Feel good!": "感觉不错！"
+            "Feel good!": "多人游戏增强功能。"
         }
     },
     "spotify-search": {
         "id": "spotify-search",
         "names": {
             "Spotify Search": "Spotify搜索",
-            "Access your Spotify playlists and quickly search for matching custom maps.": "访问Spotify歌单，并快速搜索匹配自制谱面。",
-            "Access your Spotify playlists and quickly search for matching custom maps": "访问Spotify歌单，并快速搜索匹配自制谱面。",
-            "Access your Spotify playlists and quickly search for matching custom maps!": "访问Spotify歌单，并快速搜索匹配自制谱面。"
+            "Access your Spotify playlists and quickly search for matching custom maps.": "访问Spotify歌单，并快速搜索匹配自制谱面",
+            "Access your Spotify playlists and quickly search for matching custom maps": "访问Spotify歌单，并快速搜索匹配自制谱面",
+            "Access your Spotify playlists and quickly search for matching custom maps!": "访问Spotify歌单，并快速搜索匹配自制谱面"
         },
         "descriptions": {
             "Access your Spotify playlists and quickly search for matching custom maps.": "访问Spotify歌单，并快速搜索匹配自制谱面。",
@@ -2445,84 +2445,84 @@
     "assimp": {
         "id": "assimp",
         "names": {
-            "assimp": null
+            "assimp": "Assimp模型库"
         },
         "descriptions": {
-            "assimp, version 5.3.1!": null,
-            "assimp, version 5.3.2!": null,
-            "assimp, version 5.3.3!": null
+            "assimp, version 5.3.1!": "Assimp库。",
+            "assimp, version 5.3.2!": "Assimp库。",
+            "assimp, version 5.3.3!": "Assimp库。"
         }
     },
     "beatsaber-hook": {
         "id": "beatsaber-hook",
         "names": {
-            "beatsaber-hook": null
+            "beatsaber-hook": "Beatsaber Hook"
         },
         "descriptions": {
-            "Provides modding utilities for unity il2cpp games": null
+            "Provides modding utilities for unity il2cpp games": "为Unity il2cpp游戏提供模组化工具。"
         }
     },
     "beatsaverplusplus": {
         "id": "beatsaverplusplus",
         "names": {
-            "BeatSaverPlusPlus": null
+            "BeatSaverPlusPlus": "BeatSaver++"
         },
         "descriptions": {
-            "C++ library to interact with beatsaver": null
+            "C++ library to interact with beatsaver": "与BeatSaver交互的C++库。"
         }
     },
     "flamingo": {
         "id": "flamingo",
         "names": {
-            "flamingo": null
+            "flamingo": "Flamingo Hook库"
         },
         "descriptions": {
-            "General purpose Android hook library": null
+            "General purpose Android hook library": "通用Android Hook库。"
         }
     },
     "ScoreUtils": {
         "id": "ScoreUtils",
         "names": {
-            "Score Utils": null
+            "Score Utils": "分数工具"
         },
         "descriptions": {
-            "retrieves score information about the selected map": null
+            "retrieves score information about the selected map": "获取选中谱面的分数信息。"
         }
     },
     "scoreutils": {
         "id": "scoreutils",
         "names": {
-            "Score Utils": null
+            "Score Utils": "分数工具"
         },
         "descriptions": {
-            "shows extra information after completing a level": "在完成关卡后显示额外信息"
+            "shows extra information after completing a level": "在完成关卡后显示额外信息。"
         }
     },
     "thinsabercore": {
         "id": "thinsabercore",
         "names": {
-            "ThinSaberCore": null
+            "ThinSaberCore": "细光剑核心"
         },
         "descriptions": {
-            "thinsabercore, version 1.0.0-alpha1!": null
+            "thinsabercore, version 1.0.0-alpha1!": "细光剑核心库。"
         }
     },
     "thinsaberlite": {
         "id": "thinsaberlite",
         "names": {
-            "ThinSaberLite": null
+            "ThinSaberLite": "细光剑Lite"
         },
         "descriptions": {
-            "An incredibly lightweight mod that should remain unbroken between Beat Saber updates.": null
+            "An incredibly lightweight mod that should remain unbroken between Beat Saber updates.": "超轻量模组，版本更新后也能保持兼容。"
         }
     },
     "web-utils": {
         "id": "web-utils",
         "names": {
-            "WebUtils": null
+            "WebUtils": "网络工具库"
         },
         "descriptions": {
-            "library to provide easier ways of downloading things from the web": "一个库，用于从网络上轻松下载数据"
+            "library to provide easier ways of downloading things from the web": "一个库，用于从网络上轻松下载数据。"
         }
     },
     "airbuds-search": {
@@ -2558,7 +2558,7 @@
             "CongXinJian": "从心剑"
         },
         "descriptions": {
-            "help you to tweaking saber offset easier inside quest": "用来快捷地在选歌界面来调整光剑的偏移"
+            "help you to tweaking saber offset easier inside quest": "用来快捷地在选歌界面来调整光剑的偏移。"
         }
     },
     "discordrichpresence": {
@@ -2567,7 +2567,7 @@
             "Discord Rich Presence": "Discord富状态"
         },
         "descriptions": {
-            "A Beat Saber Quest mod for displaying stats on Discord": "一个用于在 Discord 上显示状态的模组"
+            "A Beat Saber Quest mod for displaying stats on Discord": "一个用于在 Discord 上显示状态的模组。"
         }
     }
 }
