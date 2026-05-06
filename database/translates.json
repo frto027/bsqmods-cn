@@ -2302,7 +2302,8 @@
             "Qustom Menu": "自定义菜单"
         },
         "descriptions": {
-            "Customise the Beat Saber menu": "自定义游戏的菜单。"
+            "Customise the Beat Saber menu": "自定义游戏的菜单。",
+            "Customize the Beat Saber menu, add custom banners and quotes": "自定义菜单、添加横幅和语录。"
         }
     },
     "redbar": {
