@@ -312,7 +312,7 @@
             "Practice Skipper": "练习跳跃"
         },
         "descriptions": {
-            "Adds the ability to seek and change song speed while in practice mode. Double tap left or right with your left controller's analog stick to skip through the song, and double tap up or down to adjust the song speed. Options are available to change which controller to use, how long to skip, and how much to change speed.": "在练习模式中快进和变速。双击左/右控制器快进/快退。"
+            "Adds the ability to seek and change song speed while in practice mode. Double tap left or right with your left controller's analog stick to skip through the song, and double tap up or down to adjust the song speed. Options are available to change which controller to use, how long to skip, and how much to change speed.": "在练习模式中快进和变速。用左手摇杆双击左/右快进曲目，双击上/下调节播放速度。可配置使用哪个手柄、快进时长和变速幅度。"
         }
     },
     "Qosmetics": {
@@ -1059,7 +1059,7 @@
     "sabertailor": {
         "id": "sabertailor",
         "names": {
-            "Saber Tailor": "SaberTailor"
+            "Saber Tailor": "光剑调整"
         },
         "descriptions": {
             "Edit controller settings for each saber independently. Also includes Kinsi's Controller Settings Helper mod": "分别为两个光剑单独编辑手柄设置。还包含了Kinsi的手柄辅助设置模组。"
@@ -1153,7 +1153,7 @@
     "SpaghettiExtensions": {
         "id": "SpaghettiExtensions",
         "names": {
-            "SpaghettiExtensions": "面条扩展Lite"
+            "SpaghettiExtensions": "Spaghetti扩展Lite"
         },
         "descriptions": {
             "i got bored": "我闲得无聊。"
@@ -1307,7 +1307,7 @@
             "AniPic": "动物图片"
         },
         "descriptions": {
-            "Ever get anger that you cant beat a map? Then look at animal pictures until you feel calm :)": "打不过图很生气？看看动物图片冷静一下 :)。"
+            "Ever get anger that you cant beat a map? Then look at animal pictures until you feel calm :)": "打不过图很生气？看看动物图片冷静一下 :)"
         }
     },
     "anytweaks": {
@@ -1415,7 +1415,7 @@
     "BeatmapPlayCount": {
         "id": "BeatmapPlayCount",
         "names": {
-            "Simple Beatmap Play Count": "谱面游玩计数"
+            "Simple Beatmap Play Count": "简易谱面游玩计数"
         },
         "descriptions": {
             "null": null,
@@ -1756,11 +1756,11 @@
     "PitchBlaq": {
         "id": "PitchBlaq",
         "names": {
-            "PitchBlaq": "音高调整"
+            "PitchBlaq": "灯光禁用"
         },
         "descriptions": {
-            "null": "调整游戏音高。",
-            "Simple plugin that can completely disable lights (events) and spectrogram (if the environment has one). Config menu include light and spectrogram.": "调整游戏音高。"
+            "null": "灯光与频谱屏蔽。",
+            "Simple plugin that can completely disable lights (events) and spectrogram (if the environment has one). Config menu include light and spectrogram.": "完全禁用灯光和频谱效果。配置菜单可分别开关灯光和频谱。"
         }
     },
     "pythonlib": {
@@ -1932,7 +1932,7 @@
     "chatplex-sdk-bs": {
         "id": "chatplex-sdk-bs",
         "names": {
-            "ChatPlexSDK-BS": "ChatPlex SDK"
+            "ChatPlexSDK-BS": "ChatPlexSDK-BS"
         },
         "descriptions": {
             "ChatPlex BeatSaber modding SDK (Dependence for other mods)": "ChatPlex的节奏光剑模组SDK（被其它模组依赖）。",
