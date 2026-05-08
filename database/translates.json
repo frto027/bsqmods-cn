@@ -1932,7 +1932,7 @@
     "chatplex-sdk-bs": {
         "id": "chatplex-sdk-bs",
         "names": {
-            "ChatPlexSDK-BS": "ChatPlexSDK-BS"
+            "ChatPlexSDK-BS": null
         },
         "descriptions": {
             "ChatPlex BeatSaber modding SDK (Dependence for other mods)": "ChatPlex的节奏光剑模组SDK（被其它模组依赖）。",
