@@ -103,7 +103,7 @@ function Body() {
   return <div className="my-container">
     <div className="alert alert-light mt-3" role="alert">
       <b><i className="m-1 bi bi-highlighter"></i>数据源与内容反馈</b><br />
-      <p className='m-0' style={{ textIndent: "1.5em" }}>中文内容均人工制作，任何问题或需求可以通过<a href="https://github.com/BeatSaberCN/bsqmods-cn/issues">issue</a>联系，会第一时间进行处理。</p>
+      <p className='m-0' style={{ textIndent: "1.5em" }}>中文内容均有审核，任何问题或需求可以通过<a href="https://github.com/BeatSaberCN/bsqmods-cn/issues">issue</a>联系，会第一时间进行处理。</p>
     </div>
 
     <div className='alert alert-light fade show pb-3 pb-sm-2'>
