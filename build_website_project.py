@@ -11,7 +11,10 @@ def copy_file(src:str,dst:str):
             f.write(ff.read())
 
 # 生成实时信息相关的源码
-copy_file("dist/mods.json", "website-project/src/mods.json")
+with open("website-project/src/mods.json", "w", encoding="utf-8") as f:
+    f.write(urllib.request.urlopen(urllib.request.Request("https://mods.bsquest.xyz/mods.json", headers={
+        "User-Agent":"bsqmods-cn-script (https://github.com/frto027/bsqmods-cn)"
+    })).read().decode("utf8"))
 copy_file("dist/build_info.json", "website-project/src/build_info.json")
 copy_file("dist/versions.json", "website-project/src/versions.json")
 with open("website-project/src/core_mods.json", "w", encoding="utf-8") as f:
